@@ -1,0 +1,49 @@
+%# Variables {{{
+% my $slide				= $self->slide($id_pres,$id_diapo);
+% my $n_diapos		= $slide->n_diapos;
+% my $title				= $slide->title;
+% my $diapositiva = $slide->diapositiva;
+% my $background	= $slide->background;
+% my $prev				= $slide->prev;
+% my $next				= $slide->next;
+% my $div_box			= $slide->div_box;
+% my $div_contingut = $slide->div_contingut;
+%# }}}
+
+% layout 'diapositiva';
+% title $title;
+
+<div class="list-diapos-top">
+	<p>
+	%= link_to "\N{U+1F3E0}" => "/"
+	|
+	%= link_to "⇦" => "/presenta/$id_pres/$prev"
+	% foreach my $numero ( 1 .. $n_diapos) {
+		%= link_to $numero => "/presenta/$id_pres/$numero"
+	% }
+	%= link_to "⇨" => "/presenta/$id_pres/$next"
+	</p>
+</div>
+
+<div id="next-slide" onclick="location.href = '<%= $next %>';">
+	%== $div_box
+		%== $div_contingut
+			%== $diapositiva
+		</div>
+	</div>
+</div>
+
+<div class="list-diapos-bottom">
+	<p>
+	%= link_to "\N{U+1F3E0}" => "/"
+	|
+	%= link_to "⇦" => "/presenta/$id_pres/$prev"
+	% foreach my $numero ( 1 .. $n_diapos) {
+		%= link_to $numero => "/presenta/$id_pres/$numero"
+	% }
+	%= link_to "⇨" => "/presenta/$id_pres/$next"
+	</p>
+</div>
+
+
+%# vim: tabstop=2 shiftwidth=2

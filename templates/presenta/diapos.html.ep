@@ -1,0 +1,33 @@
+% layout 'diapos';
+% title $title;
+
+<div class="page">
+	%=t h1 => $title;
+	<table>
+	% my $count = 0;
+	% while ( $count < $n_diapos ) {
+		<tr>
+		% for my $column (1 .. 2) {
+			% my $id_diapo = $count + $column;
+			% next if ($id_diapo > $n_diapos);
+			<td>
+			% my $slide = slide($id_pres,$id_diapo);
+			% my $diapositiva = $slide->diapositiva;
+			% my $div_box			= $slide->div_box;
+			% my $div_contingut = $slide->div_contingut;
+				
+				%= "$id_diapo/$n_diapos"
+				%== $div_box
+					%== $div_contingut
+						%== $diapositiva
+					</div>
+				</div>
+			</td>
+		% }
+		</tr>
+		% $count += 2;
+	% }
+	</table>
+</div>
+
+%# vim: tabstop=2 shiftwidth=2

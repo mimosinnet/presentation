@@ -1,0 +1,54 @@
+% layout 'default';
+% title $title;
+
+<div class="list">
+
+%=t h1 => $title
+
+<p style="color: red">
+	%= $self->flash('message')
+</p>
+
+% my @presentacions = @$pres;
+% my $n_pres				= scalar @presentacions;
+
+<p>Tens <%= $n_pres %> presentacions, i n'has carregat <%= $n_pres_in_db %>.</p>
+
+<table>
+	<tr><th>Id.</th><th>Diaps</th><th>Títol</th><th>Actualitza</th></tr>
+% foreach my $id_pres ( @presentacions ) {
+	%# Transform in numeric form
+	% my $id_pres_n = $id_pres + 0;
+	% my $find_pres_rs = $self->m_pres->find_pres($id_pres_n);
+	% my ($id, $title, $diapos, $color ) = ("","","0","red");
+	% if (defined $find_pres_rs) {
+		% $id	= $find_pres_rs->id;
+		% $title 			= $find_pres_rs->presentacio;
+		% $diapos 		= $find_pres_rs->diapositives;
+		% if ( $id eq $id_pres_n ) { $color = "green"  }
+		% else { $color = "yellow"  }
+	% }
+
+	<tr>
+		%# Color of td depending on the presence in db
+		<td style="background-color: <%= $color %>;">
+			%= link_to $id_pres => url_for("/show_markdown/$id_pres"), target => '_blank'
+		</td>
+		<td>
+			%= link_to $diapos => url_for("/diapos/$id_pres"), target => '_blank'
+		</td>
+		<td>
+			%= link_to $title => "/presenta/$id_pres/1"
+		</td>
+		<td>
+			%= form_for '/admin/update' => (method => 'GET') => begin
+				%= hidden_field 'id_pres' => $id_pres
+				%= submit_button 'Actualitza'
+			% end
+		</td>
+	</tr>
+% }
+</table>
+
+</div>
+%# vim: tabstop=2 shiftwidth=2

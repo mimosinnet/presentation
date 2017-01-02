@@ -1,0 +1,17 @@
+% layout 'default';
+% title $missatge;
+
+%=t h1 => $missatge
+
+<p>L'arxiu <b><%= $titol %></b> té <b><%= $n_diapos %></b> diapositives.</p>
+
+<hr>
+
+%=t h1 => "Contingut"
+
+% foreach my $line ( split /^/, $content) {
+%==	"$line <br>" 
+% }
+
+
+%# vim: tabstop=2 shiftwidth=2
