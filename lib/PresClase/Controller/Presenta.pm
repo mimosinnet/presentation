@@ -39,18 +39,20 @@ sub presenta {
 
 # Show markdown file {{{
 sub show_markdown {
-	my $self = shift;
-	my $id_pres	 = $self->stash('id');
+	my $self 		= shift;
+	my $id_pres	= $self->stash('id');
+
+	# Read Markdown File
 	my $read_markdown = PresClase::Objects::ReadMarkdown->new( id_pres => $id_pres);
-	my $titol = $read_markdown->titol;
-	my $content = $read_markdown->content;
-	my $n_diapos = $read_markdown->n_diapos;
+	my $titol 				= $read_markdown->titol;
+	my $content 			= $read_markdown->content;
+	my $n_diapos 			= $read_markdown->n_diapos;
 	
 	$self->render(
-		missatge => "Arxiu markdown",
-		titol => $titol,
-		content => $content,
-		n_diapos => $n_diapos,
+		missatge 	=> "Arxiu markdown",
+		titol 		=> $titol,
+		content 	=> $content,
+		n_diapos	=> $n_diapos,
 	);
 }
 # }}}

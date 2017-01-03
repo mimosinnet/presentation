@@ -14,7 +14,7 @@ has 'titol' => sub {
 		my $id_pres = $self->id_pres;
 		return "Error in /md/$id_pres/Config.txt" unless defined $self->cfg;
 		my $cfg		= $self->cfg;
-		return decode 'UTF-8', $cfg->param('Titol');
+		return trim decode 'UTF-8', $cfg->param('Titol');
 	};
 has 'content' => sub {
 		my $self = shift;
@@ -29,3 +29,13 @@ has 'n_diapos' => sub {
 	};
 
 1;
+
+__END__
+
+=head1 NAME
+
+PresClase::Objects::ReadMarkdown - class for reading Markdown file
+
+=head1 SYNOPSIS
+
+	use Mojo::Base 'PresClase::Objects::ReadMarkdown'; 
