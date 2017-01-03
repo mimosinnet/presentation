@@ -1,5 +1,4 @@
 body {
-	text-align: center;
 }
 
 table {
@@ -7,3 +6,6 @@ table {
 	border: 3px solid black;
 }
 
+.list {
+	text-align: center;
+}
