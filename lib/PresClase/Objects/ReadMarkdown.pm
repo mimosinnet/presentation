@@ -1,7 +1,7 @@
 package PresClase::Objects::ReadMarkdown;
 use Mojo::Base -base;
 use Config::Simple;
-use Mojo::Util qw( trim slurp decode);
+use Mojo::Util qw( trim slurp decode );
 
 has 'id_pres';
 has 'cfg' => sub {

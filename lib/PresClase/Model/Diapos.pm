@@ -53,7 +53,7 @@ sub add_diapos {
 		$numero++;
 		my $background	= "none";
 		# If the first line is an image, we use it as the background
-		if ( $diapositiva =~ /\s*!\[alt_text\](.*)/n ) {
+		if ( $diapositiva =~ /^!\[alt_text\](.*)/n ) {
 			($background)  = ( $diapositiva =~  /!\[alt_text\]\((.*)\)/ );
 			$diapositiva = $diapositiva =~ s/\s*!\[alt_text\].*//r ;
 		}

@@ -1,6 +1,6 @@
 # Diversitat Sexual
 -----
-<video controls><source src="/02/V/La_Rebelión_de_Stonewall.mp4" type="video/mp4"></video>
+<video controls><source src="/media/02/V/La_Rebelión_de_Stonewall.mp4" type="video/mp4"></video>
 
 <!---	Investigación Psicológica: Falometría, Radar Gay, {{{
 	A revisar: 
@@ -19,23 +19,23 @@ identificar homosexuales
 
 # Falometría
 -----
-![alt_text](/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
+![alt_text](/media/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
 -----
-![alt_text](/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
+![alt_text](/media/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
  
 Falometría:
 
 * 50's: Diagnosticar homosexualidad y terapias aversiva
 * a partir de los 60's: Diagnosticar pederastas, pedófilos, ...
 -----
-![alt_text](/02/P/PsycpPhisioTest/British_Columbia.png)
+![alt_text](/media/02/P/PsycpPhisioTest/British_Columbia.png)
 -----
-![alt_text](/02/P/PsycpPhisioTest/British_Columbia.png)
+![alt_text](/media/02/P/PsycpPhisioTest/British_Columbia.png)
 <span background='black'>British Columbia, Canada, prohíbe el uso de la falometría en adolescentes bajo tratamiento por delitos sexuales.
 -----
-![alt_text](/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
+![alt_text](/media/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
 -----
-![alt_text](/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
+![alt_text](/media/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
 <span background='black'>La UE critica el 'test falométrico' a solicitantes de asilo para saber si son realmente 'gays'.
 -----
 2014: Los resultados falométricos pueden ser manipulados cognitivamente 
@@ -74,10 +74,10 @@ femeninos de una familia*.
 <p style="font-size:small">Hamer DH, Hu S, Magnuson VL, Hu N, Pattatucci AML. (1993). A linkage between 
 DNA markers on the X-chromosome and male sexual orientation. <i>Science</i> 261:321-7. </p>
 -----
-![alt_text](/02/P/Cartografias/Article_1.png)
+![alt_text](/media/02/P/Cartografias/Article_1.png)
 <!-- #  veure http://www.mygenes.co.nz/ -->
 -----
-![alt_text](/02/P/Cartografias/Article_3.png)
+![alt_text](/media/02/P/Cartografias/Article_3.png)
 -----
 <p style="font-size:small">Neil Whitehead y Briar Whitehead (2014). My Genes Made Me Do It!</p>
 
@@ -86,18 +86,18 @@ DNA markers on the X-chromosome and male sexual orientation. <i>Science</i> 261:
 > La investigación sobre una relación causal entre factores genéticos y comportamiento (esquizofrenia, alcoholismo, homosexualidad, inteligencia) ofrece resultados contradictorios. En el caso de la homosexualidad, **consideramos la influencia genética al nivel del 10%, en el sentido de que genéticamente una persona puede tener dedos largos, pero eso no la hace una pianista**.  En un futuro comprenderemos más, pero por el momento **hay poca evidencia de que los genes causan el comportamiento**, y menos la homosexualidad.
 
 -----
-![alt_text](/02/P/Cartografias/Article_6.png)
+![alt_text](/media/02/P/Cartografias/Article_6.png)
 
 El "radar" Gay
 -----
-![alt_text](/02/P/Cartografias/Article_7.png)
+![alt_text](/media/02/P/Cartografias/Article_7.png)
 -----
-![alt_text](/02/P/Cartografias/Article_7.png)
+![alt_text](/media/02/P/Cartografias/Article_7.png)
 Mirando una fotografía podemos averiguar la orientación sexual.
 -----
-![alt_text](/02/P/Cartografias/GayDar.jpg)
+![alt_text](/media/02/P/Cartografias/GayDar.jpg)
 -----
-![alt_text](/02/P/Cartografias/GayDar.jpg)
+![alt_text](/media/02/P/Cartografias/GayDar.jpg)
 > _No encontramos ninguna evidencia de la conclusión de los trabajos previos que las caras de persones gays o lesbianas sean distintas a las de personas heterosexuales.  El status grupal de gays y lesbianas se hace "visible" a través de estereotipos culturales". El concepto de "radar gay" es un mito que refuerza este proceso de estereotipación._
 
 <p style="font-size:small">William T. L. Cox, Patricia G. Devine, Alyssa A. Bischmann, and Janet S. Hyde (2015).  Inferences About Sexual Orientation: The Roles of Stereotypes, Faces, andThe Gaydar Myth. DOI:10.1080/00224499.2015.1015714. </p>
@@ -133,9 +133,9 @@ sexo?
 
 <big>Se invisibiliza y regula lo "normal" a partir de lo "desviado".</big>
 -----
-![alt_text](/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
+![alt_text](/media/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
 -----
-![alt_text](/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
+![alt_text](/media/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
 
 Eysenk, H.J. (1971): Raza, inteligencia y educación.
 
@@ -168,17 +168,17 @@ Estructura del argumento: "El Fantasma en la Máquina"
 -----
 # Cartografías Corporales
 -----
-![alt_text](/02/P/Cartografias/Mapa_Revés.png)
+![alt_text](/media/02/P/Cartografias/Mapa_Revés.png)
 -----
-![alt_text](/02/P/Cartografias/Mapa_Revés.png)
+![alt_text](/media/02/P/Cartografias/Mapa_Revés.png)
 
 Tabula Rogeriana, dibujada por Al-Idrisi para Roger II de Sicilia en el 1154.
 -----
-![alt_text](/02/P/Cartografias/Mapa_Revés_derecho.png)
+![alt_text](/media/02/P/Cartografias/Mapa_Revés_derecho.png)
 -----
-![alt_text](/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
+![alt_text](/media/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
 -----
-![alt_text](/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
+![alt_text](/media/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
 * Marcianos: poder, competencia, eficiencia, éxito
 (activos, racionales, dominantes, objetivos).
 * Venusianas: amor, comunicación, belleza, relaciones 
@@ -193,9 +193,9 @@ Nombramos y representamos en términos
 
 <big>**Los sistemas semióticos editan y producen el mundo.**</big>
 -----
-![alt_text](/02/P/Cartografias/Bic_for_her.jpg)
+![alt_text](/media/02/P/Cartografias/Bic_for_her.jpg)
 -----
-![alt_text](/02/P/Cartografias/Mapa.png)
+![alt_text](/media/02/P/Cartografias/Mapa.png)
 <!-- #  }}} -->
 <!-- #  La construcción de los Cuerpos {{{ -->
 -----
@@ -214,17 +214,17 @@ artificio. Las lecturas occidentales de
 sexo y género han cambiado a lo largo de
 su historia.
 -----
-![alt_text](/02/P/Laqueur/vesalius_page_174_large.jpg)
+![alt_text](/media/02/P/Laqueur/vesalius_page_174_large.jpg)
 -----
-![alt_text](/02/P/Laqueur/vesalius_page_174_large.jpg)
+![alt_text](/media/02/P/Laqueur/vesalius_page_174_large.jpg)
 Dibujo cuerpo humano
 -----
-![alt_text](/02/P/Laqueur/Vagina_Como_Pene.png)
+![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
 -----
-![alt_text](/02/P/Laqueur/Vagina_Como_Pene.png)
+![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
 Dibujo genitales
 -----
-![alt_text](/02/P/Laqueur/Vagina_Como_Pene.png)
+![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
 Durante gran parte de la
 historia occidental, los
 órganos sexuales de la mujer
@@ -232,12 +232,12 @@ son representados similares a
 los del hombre, con una
 complexión "inferior". 
 -----
-![alt_text](/02/P/Laqueur/640px-Organ_Systems_II.jpg)
+![alt_text](/media/02/P/Laqueur/640px-Organ_Systems_II.jpg)
 Actualidad
 -----
-![alt_text](/02/P/Corporeidad/prevencion_cancer_mama.jpg)
+![alt_text](/media/02/P/Corporeidad/prevencion_cancer_mama.jpg)
 -----
-![alt_text](/02/P/Corporeidad/prevencion_cancer_mama.jpg)
+![alt_text](/media/02/P/Corporeidad/prevencion_cancer_mama.jpg)
 Se aconsejan mamografía a partir de los 45-50
 ¿Qué pechos se muestran en las campañas de prevención?
 -----
@@ -252,7 +252,7 @@ es un mito.
 mujeres.
 * 2013: Técnicas de "eyaculación femenina".
 -----
-![alt_text](/02/P/Laqueur/Eyaculación_Femenina.jpg)
+![alt_text](/media/02/P/Laqueur/Eyaculación_Femenina.jpg)
 -----
 "Transexualidad" F inales S.XVI
 
@@ -306,9 +306,9 @@ mujer, como la de manzana y naranja, no viene dada
 en términos de más o menos igual sino de
 diferencia (Laqueur 1990, 207).
 -----
-![alt_text](/02/P/Laqueur/Invention_Hereosexuality.jpg)
+![alt_text](/media/02/P/Laqueur/Invention_Hereosexuality.jpg)
 -----
-![alt_text](/02/P/Laqueur/Invention_Hereosexuality.jpg)
+![alt_text](/media/02/P/Laqueur/Invention_Hereosexuality.jpg)
 
 * S. XIX homo y hetero se constituyeron como desviaciones de
 la norma reproductiva.
@@ -338,12 +338,12 @@ El <span foreground="green">sexo como producción biopolítica
 correctos, concepción del sexo distinta a la actual.
 * A partir del s. XIX, se solidifican las fronteras biológicas entre hombre y mujer
 -----
-![alt_text](/02/P/Laqueur/Harnaam_Kaur.png)
+![alt_text](/media/02/P/Laqueur/Harnaam_Kaur.png)
 -----
-![alt_text](/02/P/Laqueur/Harnaam_Kaur.png)
+![alt_text](/media/02/P/Laqueur/Harnaam_Kaur.png)
 * La diferenciación entre masculino/femenino es el resultado de una acción biopolítica.
 -----
-<video controls><source src="/02/V/Beatriz_Preciado.mp4" type="video/mp4"></video>
+<video controls><source src="/media/02/V/Beatriz_Preciado.mp4" type="video/mp4"></video>
 <!-- #  }}} -->
 <!-- #  Posiciones de sujeto {{{ -->
 -----
@@ -360,10 +360,10 @@ Corporeidad como campo de batalla cultural
 
 __¿Quién tiene el poder para gestionar las tecnologías corporales?__
 -----
-![alt_text](/02/P/Corporeidad/Cuerpos_Antes_1917.png) 
+![alt_text](/media/02/P/Corporeidad/Cuerpos_Antes_1917.png) 
 1917
 -----
-![alt_text](/02/P/Corporeidad/Cuerpos_Ahora.png) 
+![alt_text](/media/02/P/Corporeidad/Cuerpos_Ahora.png) 
 Actualidad
 -----
 Corporeidad como campo de lucha biopolítico
@@ -376,11 +376,11 @@ cuidados del cuerpo (i.e. monogamia - poliamor)
 * La "dureza" de la agencia corporal limita la maleabilidad
 tecnológica (i.e.: cambios generacionales).
 -----
-![alt_text](/02/P/Corporeidad/Transbutch.png)
+![alt_text](/media/02/P/Corporeidad/Transbutch.png)
 Tesis Doctoral
 <p style="font-size:small">(Actualmente, la operación genital la realizan habitualmente las mujeres trans)</p>
 -----
-![alt_text](/02/P/Slogans/Your_body_is_a_battleground.jpg)  
+![alt_text](/media/02/P/Slogans/Your_body_is_a_battleground.jpg)  
 Corporeidad como
 Campo de batalla
 Biopolítico
@@ -398,11 +398,11 @@ gay, musulmana,...).
 
 ## La norma constituye la resistencia
 -----
-![alt_text](/02/P/Posiciones/Velo_Islámico.png) 
+![alt_text](/media/02/P/Posiciones/Velo_Islámico.png) 
 -----
-![alt_text](/02/P/Gent/Adrienne_Rich.jpg) 
+![alt_text](/media/02/P/Gent/Adrienne_Rich.jpg) 
 -----
-![alt_text](/02/P/Gent/Adrienne_Rich.jpg) 
+![alt_text](/media/02/P/Gent/Adrienne_Rich.jpg) 
 <!-- #   Rich, A. (1980). Compulsory Hetero-sexuality and Lesbian -->
 <!-- #   Existence. Signs 5(4), 631-660. -->
 1980. La existencia lesbiana comprende tanto la ruptura de
@@ -425,13 +425,13 @@ transfeminista)
 # Teoría Queer
 # TransMarikaBollo / Desgenerada
 -----
-![alt_text](/02/P/Grups/Brot_Bord.png) 
+![alt_text](/media/02/P/Grups/Brot_Bord.png) 
 <span background='black'><i> Queer </i>
 -----
-![alt_text](/02/P/Grups/Degenerem-nos.png) 
+![alt_text](/media/02/P/Grups/Degenerem-nos.png) 
 <span background='black'><i> Degenerem-nos </i>
 -----
-<video controls><source src="/02/V/TeoríaQueer_BeatrizPreciado.mp4" type="video/mp4"></video>
+<video controls><source src="/media/02/V/TeoríaQueer_BeatrizPreciado.mp4" type="video/mp4"></video>
 -----
 
 * 1990: Teresa de Laurentis usa el término "queer theory" en
@@ -445,11 +445,11 @@ Crítica irónica a partir de apropiación del insulto
 * Reconocimiento del carácter <span foreground="yellow">performativo de las
 identidades sexuales.
 -----
-<video controls><source src="/02/V/Entrevista_Miquel_Missé.mp4" type="video/mp4"></video>
+<video controls><source src="/media/02/V/Entrevista_Miquel_Missé.mp4" type="video/mp4"></video>
 -----
-![alt_text](/02/P/Queer/Espejo.jpg)
+![alt_text](/media/02/P/Queer/Espejo.jpg)
 -----
-![alt_text](/02/P/Queer/Espejo.jpg)
+![alt_text](/media/02/P/Queer/Espejo.jpg)
 * Lacan: al nombrar entramos en el mundo de lo simbólico.
 * estadio del espejo: constitución del yo
 * Foucault: El poder nos "su/jeta", no hace sujeto 
@@ -482,9 +482,9 @@ que produce la ficción de un género esencial y estable.
 * Identidad de género: consolidación de normas reiteradas que
 generan normalidad y transgresión.
 -----
-![alt_text](/02/P/Queer/gobernabilidad-performatividad.jpg)
+![alt_text](/media/02/P/Queer/gobernabilidad-performatividad.jpg)
 -----
-![alt_text](/02/P/Queer/Cita_Butler.jpg)
+![alt_text](/media/02/P/Queer/Cita_Butler.jpg)
 -----
 ## Performance y performatividad
 
@@ -510,9 +510,9 @@ semiótico-material a través de "pequeños actos
 revolucionarios" para crear y consolidar nuevas formas de
 vida. 
 -----
-![alt_text](/02/P/Queer/Fiesta_Queer.jpg)
+![alt_text](/media/02/P/Queer/Fiesta_Queer.jpg)
 -----
-![alt_text](/02/P/Queer/Queer.jpg)
+![alt_text](/media/02/P/Queer/Queer.jpg)
 -----
 Algunas críticas a la Teoría Queer
 
