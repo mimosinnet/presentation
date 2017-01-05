@@ -15,9 +15,6 @@ use Modern::Perl;
 use File::Basename qw ( fileparse );
 use Mojo::Util qw( dumper slurp );
 use Test::More;
-
-use FindBin qw ( $Bin );
-use lib "$Bin/../lib";
 use PresClase::Objects::ReadSlide;
 
 
@@ -35,10 +32,10 @@ plan tests => 6 * scalar @dirs;
 
 foreach my $file (sort @dirs) { 
 	my $markdown	= slurp "$file/Presentacio.md";
-	my $n_diapos_md = split /-----/, $markdown; 
-	my $dir_media = "$dir_media/" . fileparse( $file );
+	my $n_diapos_md = split /\n-----.*\n/, $markdown; 
 	my $id_pres = fileparse $file;
-	my $diapo = PresClase::Objects::ReadSlide->new( id_pres => fileparse $file );
+	my $dir_media = "$dir_media/" . $id_pres;
+	my $diapo = PresClase::Objects::ReadSlide->new( id_pres => $id_pres );
 	my $n_diapos_db = $diapo->n_diapos;
 
 	ok( -f -r "$file/Presentacio.md", "$file/Presentacio.md");
