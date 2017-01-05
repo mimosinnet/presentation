@@ -19,9 +19,9 @@ The media is not included in github (size), neither the configuration file (secu
     listen => ['http://*:8086']
   },
 	secrets => [
-			'secret',
-			'secret', 
-			'secret'
-			],
+		'secret',
+		'secret', 
+		'secret'
+	],
 };
 ```
