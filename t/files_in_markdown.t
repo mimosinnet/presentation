@@ -46,4 +46,3 @@ foreach my $file (sort @dirs) {
 	is( $n_diapos_db, $n_diapos_md, "Number of slides presentation $id_pres: coincidence markdown and db");
 };
 
-done_testing();
