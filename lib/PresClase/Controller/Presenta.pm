@@ -82,7 +82,7 @@ sub update {
 	my $content = $read_markdown->content;
 	my $n_diapos = $read_markdown->n_diapos;
 
-	# Transform in numeric form: 01 -> 1
+	# Transform to numeric: 01 -> 1
 	$id_pres = $id_pres + 0;
 	my $find_pres_rs = $self->m_pres->find_pres($id_pres);
 	if (defined $find_pres_rs) {

@@ -24,8 +24,8 @@ has 'content' => sub {
 	};
 has 'n_diapos' => sub {
 		my $self = shift;
-		my $n_diapos = () = $self->content =~ /^-----/mg;
-		return $n_diapos+1;
+		my $n_diapos = split /\n-----.*\n/, $self->content;
+		return $n_diapos;
 	};
 
 1;
@@ -34,8 +34,31 @@ __END__
 
 =head1 NAME
 
-PresClase::Objects::ReadMarkdown - class for reading Markdown file
+PresClase::Objects::ReadMarkdown - base class for reading Markdown file
 
 =head1 SYNOPSIS
 
-	use Mojo::Base 'PresClase::Objects::ReadMarkdown'; 
+	# It reads the files 'public/md/01/Config.txt' and 'public/md/01/Presentacio.md'
+	
+	use 'PresClase::Objects::ReadMarkdown';
+	my $slide = PresClase::Objects::ReadMarkdown->new( id_pres => '01' );
+
+	my $title_of_presentation = $slide->titol;
+	my $markdown_file = $slide->content;
+	my $number_of_slides = $slide->n_diapos;
+
+=head1 DESCRIPTION
+
+The object represents the content of the markdown file and reads the associated configuration. 
+
+=head1 ATTRIBUTES
+
+=head2 C<id_pres>
+
+Identification of the presentation. It assumes a number of presentations from 01 to 99.
+
+=head2 C<cfg>
+
+An instance of Config::Simple for internal use. 
+
+=head2 C<>

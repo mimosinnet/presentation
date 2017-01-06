@@ -49,7 +49,7 @@ sub add_pres {
 sub add_diapos {
 	my ($self, $id_pres, $content) = @_;
 	my $numero = 0;
-	foreach my $diapositiva (split /^-----.*\n/m, $content) {
+	foreach my $diapositiva (split /\n-----.*\n/m, $content) {
 		$numero++;
 		my $background	= "none";
 		# If the first line is an image, we use it as the background

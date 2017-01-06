@@ -289,11 +289,14 @@ que se extraña lo vital).
 Formas de dominio cultural a través del “consentimiento”
 (Gramsci → hegemonia)
 
-Necisidad de reconocer el carácter "productivo" de las
+Necesidad de reconocer el carácter "productivo" de las
 formas de dominación. 
 
 -----
-<video controls><source src="/media/04/V/La_raza_es_mas_que_el_color_de_la_piel.mp4" type="video/mp4"></video>
+<!-- Subtítols malament. Arreglar subtítols o buscar un exemple millor -->
+<video controls>
+	<source src="/media/04/V/La_raza.mp4" type="video/mp4">
+</video>
 
 -----
 ![alt_text](/media/04/P/Racismo/David_Duke.png)
