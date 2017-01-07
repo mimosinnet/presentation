@@ -1,6 +1,17 @@
 % layout 'default';
 % title $title;
 
+% my $list_pres_rs = $self->m_pres->show_pres;
+% my $n_pres_in_db = $self->m_pres->count_pres;
+
+%# get markdown number from public/md/  {{{
+% my %n_markdown;
+% my @dirs = glob("public/md/*");
+% foreach my $dir (@dirs) {
+% 	my @path = split(/\//,$dir);
+% 	$n_markdown{pop @path} = '0';
+% } # }}}
+
 <div class="list">
 
 %=t h1 => $title
@@ -9,45 +20,55 @@
 	%= $self->flash('message')
 </p>
 
-% my @presentacions = @$pres;
-% my $n_pres				= scalar @presentacions;
-
-<p>Tens <%= $n_pres %> presentacions, i n'has carregat <%= $n_pres_in_db %>.</p>
+<p>Tens <%= keys %n_markdown %> presentacions, i n'has carregat <%= $n_pres_in_db %>.</p>
 
 <table>
-	<tr><th>Id.</th><th>Diaps</th><th>Títol</th><th>Actualitza</th></tr>
-% foreach my $id_pres ( @presentacions ) {
-	%# Transform in numeric form
-	% my $id_pres_n = $id_pres + 0;
-	% my $find_pres_rs = $self->m_pres->find_pres($id_pres_n);
-	% my ($id, $title, $diapos, $color ) = ("","","0","red");
-	% if (defined $find_pres_rs) {
-		% $id	= $find_pres_rs->id;
-		% $title 			= $find_pres_rs->presentacio;
-		% $diapos 		= $find_pres_rs->diapositives;
-		% if ( $id eq $id_pres_n ) { $color = "green"  }
-		% else { $color = "yellow"  }
-	% }
+	<tr><th>Id.</th><th>Dips</th><th>Títol</th><th>Actualitza</th></tr>
+	%# Print registers in database {{{
+	% while ( my $pres_rs = $list_pres_rs->next  ) {
+		% my $id_pres	= sprintf ("%02d", $pres_rs->id);
+		% my $title 	= $pres_rs->presentacio;
+		% my $diapos 	= $pres_rs->diapositives;
+		%# deletes from markdown if exists in db
+		% delete $n_markdown{$id_pres};
 
-	<tr>
-		%# Color of td depending on the presence in db
-		<td style="background-color: <%= $color %>;">
-			%= link_to $id_pres => url_for("/show_markdown/$id_pres"), target => '_blank'
-		</td>
-		<td>
-			%= link_to $diapos => url_for("/diapos/$id_pres"), target => '_blank'
-		</td>
-		<td>
-			%= link_to $title => "/presenta/$id_pres/1"
-		</td>
-		<td>
-			%= form_for '/admin/update' => (method => 'GET') => begin
-				%= hidden_field 'id_pres' => $id_pres
-				%= submit_button 'Actualitza'
-			% end
-		</td>
-	</tr>
-% }
+		<tr>
+			%# Color of td depending on the presence in db
+			<td style="background-color: green;">
+				%= link_to $id_pres => url_for("/show_markdown/$id_pres"), target => '_blank'
+			</td>
+			<td style="text-align: right; padding-right: 1%">
+				%= link_to $diapos => url_for("/diapos/$id_pres"), target => '_blank'
+			</td>
+			<td>
+				%= link_to $title => "/presenta/$id_pres/1"
+			</td>
+			<td>
+				%= form_for '/admin/update' => (method => 'GET') => begin
+					%= hidden_field 'id_pres' => $id_pres
+					%= submit_button 'Actualitza'
+				% end
+			</td>
+		</tr>
+	% }  
+	%# }}}
+
+	%# Print resgisters not in database
+	% foreach my $n_mark ( keys %n_markdown ) {
+		<tr>
+			<td style="background-color: red;">
+				%= link_to $n_mark => url_for("/show_markdown/$n_mark"), target => '_blank'
+			</td>
+			<td>--</td>
+			<td>--</td>
+			<td>
+				%= form_for '/admin/update' => (method => 'GET') => begin
+					%= hidden_field 'id_pres' => $n_mark
+					%= submit_button 'Actualitza'
+				% end
+			</td>
+		</tr>
+	% }
 </table>
 
 </div>
