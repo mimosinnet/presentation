@@ -5,21 +5,9 @@ use PresClase::Objects::ReadMarkdown;
 # List presentations {{{
 sub llista_pres {
 	my $self = shift;
-	my @dirs = glob("public/md/*");
-
-	# get the last item of the path 
-	my @dir;
-	foreach my $dir (@dirs) {
-		my @paths = split(/\//,$dir);
-		push @dir, pop @paths;
-	}
-
-	my $n_pres_in_db = $self->m_pres->count_pres;
 
 	$self->render(
 		title => "Llista de Presentacions",
-		n_pres_in_db => $n_pres_in_db,
-		pres	=> \@dir,
 	);
 }
 # }}}
