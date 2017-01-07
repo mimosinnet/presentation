@@ -6,8 +6,10 @@ has 'db';
 
 # show presentations {{{
 sub show_pres {
-	my ($self) = @_;
-	return $self->db->resultset('Presentacio');
+	my $self = shift;
+	return $self->db->resultset('Presentacio')->search_rs( undef, {
+				order_by => 'presentacio',
+		});
 }
 # }}}
 
