@@ -22,10 +22,10 @@ sub startup {
 	$self->helper(
      m_pres => sub { state $m_llei = PresClase::Model::Diapos->new(db => shift->db) });
 	$self->helper( slide => sub {
-			my ($self,$id_pres,$id_diapo) = @_;
+			my ($self,$id_pres,$id_slide) = @_;
 			return PresClase::Objects::ReadSlide->new( 
 				id_pres => $id_pres, 
-				id_diapo => $id_diapo,
+				id_slide => $id_slide,
 			);
 		}
 	);
