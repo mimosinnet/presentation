@@ -24,6 +24,7 @@ body {
 	margin-right: 0.5%;
 	font-size: 2em;
 	padding-left: 0.7em;
+	width: 100%;
 /*	
   animation-duration: 1s;
   animation-name: diapo;
@@ -79,6 +80,16 @@ video {
 	margin-left: 0;
 	width: 100%; 
 	height: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+iframe {
+	width: 100%;
+	min-height: 20em;
 }
 
 @keyframes diapo {
