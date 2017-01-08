@@ -1,5 +1,6 @@
 % layout 'diapos';
 % title $title;
+%# Show all slides, uses helper slide
 
 <div class="page">
 	%=t h1 => $title;
@@ -13,8 +14,7 @@
 			<td>
 			% my $slide = slide($id_pres,$id_diapo);
 			% my $diapositiva = $slide->diapositiva;
-			% my $div_box			= $slide->div_box;
-			% my $div_contingut = $slide->div_contingut;
+			% my ($div_box, $div_contingut) = $slide->div;
 				
 				%= "$id_diapo/$n_diapos"
 				%== $div_box
