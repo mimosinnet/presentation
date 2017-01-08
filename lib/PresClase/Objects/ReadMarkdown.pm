@@ -22,10 +22,10 @@ has 'content' => sub {
 		return "Error in /md/$id_pres/Presentacio.md" unless -e "public/md/$id_pres/Presentacio.md";
 		return trim decode 'UTF-8', slurp "public/md/$id_pres/Presentacio.md";
 	};
-has 'n_diapos' => sub {
+has 'n_slides' => sub {
 		my $self = shift;
-		my $n_diapos = split /\n-----.*\n/, $self->content;
-		return $n_diapos;
+		my $n_slides = split /\n-----.*\n/, $self->content;
+		return $n_slides;
 	};
 
 1;
@@ -45,7 +45,7 @@ PresClase::Objects::ReadMarkdown - base class for reading Markdown file
 
 	my $title_of_presentation = $slide->titol;
 	my $markdown_file = $slide->content;
-	my $number_of_slides = $slide->n_diapos;
+	my $number_of_slides = $slide->n_slides;
 
 =head1 DESCRIPTION
 
