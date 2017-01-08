@@ -4,10 +4,8 @@
 % my $title				= $slide->title;
 % my $diapositiva = $slide->diapositiva;
 % my $background	= $slide->background;
-% my $prev				= $slide->prev;
-% my $next				= $slide->next;
-% my $div_box			= $slide->div_box;
-% my $div_contingut = $slide->div_contingut;
+% my ($prev, $next) = $slide->position;
+% my ($div_box, $div_contingut) = $slide->div;
 %# }}}
 
 % layout 'diapositiva';
