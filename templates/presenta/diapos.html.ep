@@ -1,4 +1,4 @@
-% layout 'diapos';
+% layout 'slides';
 % title $title;
 %# Show all slides, uses helper slide
 
@@ -6,17 +6,17 @@
 	%=t h1 => $title;
 	<table>
 	% my $count = 0;
-	% while ( $count < $n_diapos ) {
+	% while ( $count < $n_slides ) {
 		<tr>
 		% for my $column (1 .. 2) {
-			% my $id_diapo = $count + $column;
-			% next if ($id_diapo > $n_diapos);
+			% my $id_slide = $count + $column;
+			% next if ($id_slide > $n_slides);
 			<td>
-			% my $slide = slide($id_pres,$id_diapo);
+			% my $slide = slide($id_pres,$id_slide);
 			% my $diapositiva = $slide->diapositiva;
 			% my ($div_box, $div_contingut) = $slide->div;
 				
-				%= "$id_diapo/$n_diapos"
+				%= "$id_slide/$n_slides"
 				%== $div_box
 					%== $div_contingut
 						%== $diapositiva

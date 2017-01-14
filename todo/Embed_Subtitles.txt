@@ -1,0 +1,17 @@
+http://stackoverflow.com/questions/8672809/use-ffmpeg-to-add-text-subtitles
+
+First convert the subtitles to .ass format:
+ffmpeg -i subtitles.srt subtitles.ass
+
+Then add them using a video filter:
+ffmpeg -i mymovie.mp4 -vf ass=subtitles.ass mysubtitledmovie.mp4
+
+
+
+Need to consider the format that the browser supports:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats
+
+To recode on webm:
+(https://trac.ffmpeg.org/wiki/Encode/VP8)
+
+ffmpeg -i input.mp4 -c:v libvpx -crf 10 -b:v 1M -c:a libvorbis output.webm

@@ -1,6 +1,6 @@
 %# Variables {{{
-% my $slide				= $self->slide($id_pres,$id_diapo);
-% my $n_diapos		= $slide->n_diapos;
+% my $slide				= $self->slide($id_pres,$id_slide);
+% my $n_slides		= $slide->n_slides;
 % my $title				= $slide->title;
 % my $diapositiva = $slide->diapositiva;
 % my $background	= $slide->background;
@@ -16,7 +16,7 @@
 	%= link_to "\N{U+1F3E0}" => "/"
 	|
 	%= link_to "⇦" => "/presenta/$id_pres/$prev"
-	% foreach my $numero ( 1 .. $n_diapos) {
+	% foreach my $numero ( 1 .. $n_slides) {
 		%= link_to $numero => "/presenta/$id_pres/$numero"
 	% }
 	%= link_to "⇨" => "/presenta/$id_pres/$next"
@@ -36,7 +36,7 @@
 	%= link_to "\N{U+1F3E0}" => "/"
 	|
 	%= link_to "⇦" => "/presenta/$id_pres/$prev"
-	% foreach my $numero ( 1 .. $n_diapos) {
+	% foreach my $numero ( 1 .. $n_slides) {
 		%= link_to $numero => "/presenta/$id_pres/$numero"
 	% }
 	%= link_to "⇨" => "/presenta/$id_pres/$next"

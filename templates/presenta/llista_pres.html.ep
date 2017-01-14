@@ -23,25 +23,31 @@
 <p>Tens <%= keys %n_markdown %> presentacions, i n'has carregat <%= $n_pres_in_db %>.</p>
 
 <table>
-	<tr><th>Id.</th><th>Dips</th><th>Títol</th><th>Actualitza</th></tr>
+	<tr><th>Id.</th><th>Dips</th><th>Títol</th><th>Remark</th><th>Actualitza</th></tr>
 	%# Print registers in database {{{
 	% while ( my $pres_rs = $list_pres_rs->next  ) {
 		% my $id_pres	= sprintf ("%02d", $pres_rs->id);
 		% my $title 	= $pres_rs->presentacio;
-		% my $diapos 	= $pres_rs->diapositives;
+		% my $n_slides = $pres_rs->diapositives;
 		%# deletes from markdown if exists in db
 		% delete $n_markdown{$id_pres};
 
 		<tr>
-			%# Color of td depending on the presence in db
+			%# Column 1: id. Color of td depending on the presence in db, shows markdown file
 			<td style="background-color: green;">
 				%= link_to $id_pres => url_for("/show_markdown/$id_pres"), target => '_blank'
 			</td>
+			%# Column 2: Dips. number of slides, shows an outline of slides. 
 			<td style="text-align: right; padding-right: 1%">
-				%= link_to $diapos => url_for("/diapos/$id_pres"), target => '_blank'
+				%= link_to $n_slides => url_for("/diapos/$id_pres"), target => '_blank'
 			</td>
+			%# Column 3: Títol. Title of presentation and shows presentation using mojoliciuos. 
 			<td>
 				%= link_to $title => "/presenta/$id_pres/1"
+			</td>
+			%# Column 4: Remark. Shows presentation using remark.
+			<td>
+				%= link_to $id_pres => "/remark/$id_pres"
 			</td>
 			<td>
 				%= form_for '/admin/update' => (method => 'GET') => begin
@@ -53,7 +59,7 @@
 	% }  
 	%# }}}
 
-	%# Print resgisters not in database
+	%# Print resgisters not in database {{{
 	% foreach my $n_mark ( keys %n_markdown ) {
 		<tr>
 			<td style="background-color: red;">
@@ -69,6 +75,7 @@
 			</td>
 		</tr>
 	% }
+	%# }}}
 </table>
 
 </div>

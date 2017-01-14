@@ -32,17 +32,19 @@ plan tests => 6 * scalar @dirs;
 
 foreach my $file (sort @dirs) { 
 	my $markdown	= slurp "$file/Presentacio.md";
-	my $n_diapos_md = split /\n-----.*\n/, $markdown; 
+	my $n_slides_md = split /\n-----.*\n/, $markdown; 
 	my $id_pres = fileparse $file;
 	my $dir_media = "$dir_media/" . $id_pres;
 	my $diapo = PresClase::Objects::ReadSlide->new( id_pres => $id_pres );
-	my $n_diapos_db = $diapo->n_diapos;
+	my $n_slides_db = $diapo->n_slides;
 
+	say "id_pres = $id_pres";
 	ok( -f -r "$file/Presentacio.md", "$file/Presentacio.md");
 	ok( -f -r "$file/Config.txt", "$file/Config.txt");
 	ok( -l		"$file/media", "$file/media" );
 	ok( readlink "$file/media" eq "../../media", "link $file/media");
 	ok( -d -r  $dir_media, $dir_media);
-	is( $n_diapos_db, $n_diapos_md, "Number of slides presentation $id_pres: coincidence markdown and db");
+	is( $n_slides_db, $n_slides_md, "Number of slides presentation $id_pres: coincidence markdown and db");
+	say "-" x 20;
 };
 

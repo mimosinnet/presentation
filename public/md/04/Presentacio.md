@@ -6,10 +6,10 @@ Privilegis, Omela, Ursula-Le_Guin
 
 <!-- Colonialismo {{{ -->
 
------
+---
 <video controls><source src="/media/04/V/Son_los_norteamericanos_estúpidos.flv" type="video/mp4"></video>
 
------
+---
 ##Qué idioma podemos hablar en:
 
 * Guinea Ecuatorial
@@ -19,25 +19,25 @@ Privilegis, Omela, Ursula-Le_Guin
 * Sahara Occidental 
    (República Árabe Saharaui Democrática)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Idioma_Espanyol_2.png)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Idioma_Espanyol_1.png)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Idioma_Frances.png)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Idioma_Anglés.png)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Idioma_Portugués.png)
 
------
+---
 # Colonialismo
 
------
+---
 * Imperialismo: sistema de **dominación y subordinación** 
    donde un centro (metrópolis) organiza a una periferia dominada
    (**FUERZA**).
@@ -50,7 +50,7 @@ Privilegis, Omela, Ursula-Le_Guin
    como “misión” evangelizadora y civilizadora 
    sobre otras culturas. **(JERARQUÍA)**.
 
------
+---
 **Jules Ferry (Francia)
 Cámara de Diputados, 28 de julio de 1885**
 
@@ -76,7 +76,7 @@ nuestra no puede prescindir de puertos sólidos, de defensas, de centros de
 aprovisionamiento.
 
 
------
+---
 **Cecil <u>Rhodes</u>, 1895 (Regne Unit)**
 
 > «Ayer fui al East End de Londres y asistí a una
@@ -92,10 +92,10 @@ productos de nuestra fábricas y de nuestras minas.
 El imperio, lo he dicho siempre, es una cuestión
 de estómago …»
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Protectorado_Marruecos.png)
 
------
+---
 ![alt_text](/media/04/P/Colonialismo/Protectorado_Marruecos.png)
 **Protectorado Español en Marruecos**
 
@@ -108,7 +108,7 @@ las reformas administrativas,
 económicas, financieras, judiciales y
 militares de que necesita”
 
------
+---
 * Las diferencias de **"desarrollo"** son
 debidas a la “división internacional del
 trabajo” (materias primas / productos
@@ -126,23 +126,23 @@ del conocimiento”.
 
 <!-- Nacer en la cultura del otro {{{ -->
 
------
+---
 ![alt_text](/media/04/P/Racismo/El_Negro_de_Banyoles.png)
------
+---
 ![alt_text](/media/04/P/Racismo/El_Negro_de_Banyoles.png)
 
 ¿Y si eres la persona negra mirando al negro de Banyolas?
 
 # La experiencia de '**otredad**'
 
------
+---
 # (1) Frantz Fanon:
 
 * Nacer en la cultura del otro
 
 *  Anti-Colonialismo
 
------
+---
 Martinique 1925 – 1961
 
 * Lucha con la resistencia francesa durante la
@@ -156,13 +156,13 @@ Algeria
 que tiene en cuenta el contexto cultural de la
 persona.
 
------
+---
 ![alt_text](/media/04/P/Persones/Fanon.png)
 
------
+---
 ![alt_text](/media/04/P/Persones/Piel_Negra_Máscaras_Blancas.png)
 
------
+---
 ![alt_text](/media/04/P/Persones/Piel_Negra_Máscaras_Blancas.png)
 **El colonialismo jerarquiza a grupos sociales.**
 
@@ -177,22 +177,22 @@ Necesidad de una revuelta emancipadora que elimine
 la conciencia colonial y conduzca a una acción 
 transformadora.
 
------
+---
 ![alt_text](/media/04/P/Piel_Blanca/Piel_Blanca_2.png)
 
------
+---
 ![alt_text](/media/04/P/Piel_Blanca/Piel_Blanca_0.png)
 
------
+---
 ![alt_text](/media/04/P/Piel_Blanca/Piel_Blanca_1.png)
 
------
+---
 ![alt_text](/media/04/P/Piel_Blanca/Piel_Blanca_3.png)
 
------
+---
 <video controls><source src="/media/04/V/Racismo_a_vista_de_niños.mp4" type="video/mp4"></video>
 
------
+---
 **Lucha por la emancipación**
 
 * Influencia de Fanon, movimientos negros EEUU,
@@ -209,16 +209,16 @@ los demás pensando en el provecho propio”.
 
 <!-- Orientalismo {{{ -->
 
------
+---
 <big>2. Ser construido por el otro</big>
 
 ## Edward Said, Orientalismo
 ## (Palestino, profesor EEUU)
 
------
+---
 <video controls><source src="/media/04/V/On_Orientalism-Edward_Said.mp4" type="video/mp4"></video>
 
------
+---
 # El conocimiento es “político” 
 
 ## (poder/saber) 
@@ -231,7 +231,7 @@ Formas de Análisis:
 
 * Análisis de posiciones fronterizas.
 
------
+---
 > Oriente no es sólo el vecino inmediato de Europa, es también la
 región en la que Europa ha creado sus colonias más grandes,
 ricas y antiguas, es la fuente de sus civilizaciones y sus
@@ -247,7 +247,7 @@ de discurso que se apoya en unas instituciones, un vocabulario,
 unas enseñanzas, unas imágenes, unas doctrinas e incluso unas
 burocracias y estilos coloniales.
 
------
+---
 **(Dominación directa / indirecta)**
 
 > Gramsci ha efectuado una útil distinción analítica entre
@@ -262,7 +262,7 @@ civil, donde la influencia de las ideas, las instituciones y
 las personas se ejerce, no a través de la dominación, sino a
 través de lo que Gramsci llama consenso.
 
------
+---
 > En segundo lugar, creer que la política, en forma
 de imperialismo, tiene un efecto en la producción
 literaria, en la erudición, en las teorías
@@ -277,7 +277,7 @@ coacciones internas que éstos imponen en los
 escritores y pensadores son productivas y no
 unilateralmente inhibidoras.**
 
------
+---
 Orientalismo: forma de dominación sobre “oriente”
 basado en un discurso (“verdad”) que subjetiva a
 la población y legitima la dominación. 
@@ -292,16 +292,16 @@ Formas de dominio cultural a través del “consentimiento”
 Necesidad de reconocer el carácter "productivo" de las
 formas de dominación. 
 
------
+---
 <!-- Subtítols malament. Arreglar subtítols o buscar un exemple millor -->
 <video controls>
-	<source src="/media/04/V/La_raza.mp4" type="video/mp4">
+	<source src="/media/04/V/La_raza.webm" type="video/webm">
 </video>
 
------
+---
 ![alt_text](/media/04/P/Racismo/David_Duke.png)
 
------
+---
 ![alt_text](/media/04/P/Racismo/David_Duke.png)
 * Mostrar al "otro" como extraño
 
@@ -321,20 +321,20 @@ forma de conocimiento.
 
 <!-- Habitar en la Frontera {{{ -->
 
------
+---
 ![alt_text](/media/04/P/Persones/Spivak.png)
 
------
+---
 ![alt_text](/media/04/P/Persones/Spivak.png)
 
 <big>3.- Habitar en la Frontera</big>
 
 # Gayatri Spivak
 
------
+---
 ![alt_text](/media/04/P/Gitanos/Palabra-gitano.jpg)
 
------
+---
 ![alt_text](/media/04/P/Gitanos/Palabra-gitano.jpg)
 
 ¿Cómo hacemos para convivir con el "otro"?
@@ -353,10 +353,10 @@ representarse/hablar por sí mismas
 * Desaprender Privilegios: el privilegio nos aisla del conocimiento de las
 posiciones oprimidas. Aprender a ocupar la posición del otro. 
 
------
+---
 ![alt_text](/media/04/P/Hibridez/Xarnego.png)
 
------
+---
 ![alt_text](/media/04/P/Hibridez/Xarnego.png)
 
 Subjetividades híbridas
@@ -373,14 +373,14 @@ contexto donde podemos
 encontrarnos para hablar
 (transculturalidad).
 
------
+---
 ![alt_text](/media/04/P/Hibridez/Bollywood.png)
 
 <!-- }}} -->
 
 <!-- Decolonizar el conocimiento {{{ -->
 
------
+---
 **Decolonizar el Conocimiento**
 
 Análisis de la 
@@ -392,15 +392,15 @@ con las voces subalternas.
 <p style="text-size:small">Castro-Gómez, S. y Grosfoguel, R. (2007). <i>El giro decolonial: reflexiones para
 una diversidad epistémica más allá del capitalismo global</i>. Siglo del Hombre Editores.</p>
 
------
+---
 ![alt_text](/media/04/P/Decolonizar_Pensamiento/Rizomatico.jpg)
 
------
+---
 ![alt_text](/media/04/P/Decolonizar_Pensamiento/Rizomatico.jpg)
 
 Vida: ¿arborescente o rizomática?
 
------
+---
 ¿Cómo nos aproximamos a la “realidad”?
 
 * Disciplinar (cultural): Una disciplina mira al objeto.
@@ -414,7 +414,7 @@ comunican entre sí.
 * Transdisciplinar (transcultural): Énfasis en el objeto en lugar
 de la mirada.
 
------
+---
 # Colonialidad del Conocimiento
 
 * Apropiación, clasificación, institucionalización y
@@ -429,7 +429,7 @@ modernidad/tradición
 
 * Universalidad frente a localización
 
------
+---
 # De-colonizar la Universidad
 
 * Transdisciplinariedad (↔ interdisciplinariedad)
@@ -449,10 +449,10 @@ involucradas con lo que observamos
 
 <!-- Feminismes Perifèrics {{{ -->
 
------
+---
 # Feminismos Periféricos
 
------
+---
 ## Feminismo hegemónico:
 
 * Constitución de dos categorías exclusivas,
@@ -465,13 +465,13 @@ al hombre (feminismo liberal)
 
 * Se toma como modelo el feminismo blanco de clase media
 
------
+---
 ![alt_text](/media/04/P/Feminismo/Super_Woman_1.png)
 
------
+---
 ![alt_text](/media/04/P/Feminismo/Super_Woman_2.png)
 
------
+---
 Feminismos periféricos
 
 * Multiplicidad de formas de ser “mujer”
@@ -486,7 +486,7 @@ múltiples diferencias.
 * Feminismo postmoderno: crítica diferencias
 esenciales
 
------
+---
 Implicaciones
 
 * Sospecha ante la superioridad de la “mujer europea” (i.e.,
@@ -505,7 +505,7 @@ consentimiento (depilación - velo)
 público-privado, necesidades (supervivencia, reconocimiento,
 redistribución,...)
 
------
+---
 Interseccionalidad: Relación y Localización
 
 * Las categorías son relacionales
@@ -522,7 +522,7 @@ feministas de re-lectura del Corán
 
 * Configuración actual de la división internacional del trabajo
 
------
+---
 # Gràcies!
 
 <!-- vim: spell

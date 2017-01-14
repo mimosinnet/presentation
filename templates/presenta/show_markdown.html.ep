@@ -1,9 +1,11 @@
 % layout 'default';
 % title $missatge;
 
+<div class="markdown">
+
 %=t h1 => $missatge
 
-<p>L'arxiu <b><%= $titol %></b> té <b><%= $n_diapos %></b> diapositives.</p>
+<p>L'arxiu <b><%= $titol %></b> té <b><%= $n_slides %></b> diapositives.</p>
 
 <hr>
 
@@ -13,5 +15,6 @@
 %==	"$line <br>" 
 % }
 
+</div>
 
 %# vim: tabstop=2 shiftwidth=2

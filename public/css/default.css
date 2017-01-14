@@ -10,3 +10,7 @@ table {
 .list {
 	text-align: center;
 }
+
+.markdown img, .markdown video {
+	width: 50%;
+}
