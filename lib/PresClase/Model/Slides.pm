@@ -1,4 +1,4 @@
-package PresClase::Model::Diapos;
+package PresClase::Model::Slides;
 use Mojo::Base -base;
 use Text::Markdown qw{ markdown };
 
@@ -51,13 +51,13 @@ sub add_pres {
 sub add_diapos {
 	my ($self, $id_pres, $content) = @_;
 	my $numero = 0;
-	foreach my $diapositiva (split /\n-----.*\n/m, $content) {
+	foreach my $diapositiva (split /\n---.*\n/m, $content) {
 		$numero++;
 		my $background	= "none";
 		# If the first line is an image, we use it as the background
-		if ( $diapositiva =~ /^!\[alt_text\](.*)/n ) {
+		if ( $diapositiva =~ /^!\[alt_text\](.*)\s*\n/n ) {
 			($background)  = ( $diapositiva =~  /!\[alt_text\]\((.*)\)/ );
-			$diapositiva = $diapositiva =~ s/\s*!\[alt_text\].*//r ;
+			$diapositiva = $diapositiva =~ s/^!\[alt_text\].*\n//r ;
 		}
 
 		$self->db->resultset('Diapositiva')->create({
@@ -81,7 +81,7 @@ sub update_pres {
 }
 
 # delete registers {{{
-sub del_diapos {
+sub del_slides {
 	my ($self, $pres_id) = @_;
 	return $self->db->resultset('Diapositiva')->search({ presentacio => $pres_id })->delete;
 }

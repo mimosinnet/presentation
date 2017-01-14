@@ -16,6 +16,8 @@ has 'titol' => sub {
 		my $cfg		= $self->cfg;
 		return trim decode 'UTF-8', $cfg->param('Titol');
 	};
+
+# This reads the markdown file.
 has 'content' => sub {
 		my $self = shift;
 		my $id_pres = $self->id_pres;
@@ -24,7 +26,7 @@ has 'content' => sub {
 	};
 has 'n_slides' => sub {
 		my $self = shift;
-		my $n_slides = split /\n-----.*\n/, $self->content;
+		my $n_slides = split /\n---.*\n/, $self->content;
 		return $n_slides;
 	};
 

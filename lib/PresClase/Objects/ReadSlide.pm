@@ -2,14 +2,14 @@ package PresClase::Objects::ReadSlide;
 # Gets database information on Presentation and Slide from id_pres and id_slide
 use Mojo::Base -base;
 use PresClase::Schema;
-use PresClase::Model::Diapos;
+use PresClase::Model::Slides;
 
 has m_pres => sub {
 	my $self = shift;
 	my $db = PresClase::Schema->connect('dbi:SQLite:dbname=data/presentacio.db', '', '', 
 		{sqlite_unicode => 1 } 
 	) || die "Cannot connect";
-	return PresClase::Model::Diapos->new(db => $db); 
+	return PresClase::Model::Slides->new(db => $db); 
 };
 
 has 'id_pres';
@@ -54,7 +54,7 @@ sub position {
 	$next		 = 1 if $next > $n_slides;
 	my $prev = $id_slide - 1;
 	$prev		 = $n_slides if $prev == 0;
-	return ($next, $prev);
+	return ($prev, $next);
 }
 
 # Set div depending on value of $background {{{

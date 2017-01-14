@@ -1,6 +1,8 @@
 package PresClase::Controller::Presenta;
 use Mojo::Base 'Mojolicious::Controller';
 use PresClase::Objects::ReadMarkdown;
+# Text::Markdown is used to show the entire markdown file
+use Text::Markdown qw{ markdown };
 
 # List presentations {{{
 sub llista_pres {
@@ -15,8 +17,7 @@ sub llista_pres {
 # Show slide {{{
 sub presenta {
 	my $self = shift;
-	my $id_pres	 = $self->stash('id');
-	my $id_slide = $self->stash('diapo');
+	my ($id_pres,$id_slide)	= ( $self->stash('id'), $self->stash('diapo') );
 
 	$self->render(
 		id_pres			=> $id_pres,
@@ -24,6 +25,47 @@ sub presenta {
 	);
 }
 # }}}
+
+# Show slides using remark {{{
+sub remark {
+	my $self 		= shift;
+	my $id_pres	= $self->stash('id');
+
+	# Read Markdown File
+	my $read_markdown = PresClase::Objects::ReadMarkdown->new( id_pres => $id_pres);
+	my $titol 				= $read_markdown->titol;
+	my $content 			= $read_markdown->content;
+	my $n_slides 			= $read_markdown->n_slides;
+	
+	$self->render(
+		missatge 	=> "$id_pres remark",
+		titol 		=> $titol,
+		content 	=> $content,
+		n_slides	=> $n_slides,
+	);
+}
+# }}}
+
+# Show slides using revealjs {{{
+sub revealjs {
+	my $self 		= shift;
+	my $id_pres	= $self->stash('id');
+
+	# Read Markdown File
+	my $read_markdown = PresClase::Objects::ReadMarkdown->new( id_pres => $id_pres);
+	my $titol 				= $read_markdown->titol;
+	my $content 			= $read_markdown->content;
+	my $n_slides 			= $read_markdown->n_slides;
+	
+	$self->render(
+		missatge 	=> "$id_pres remark",
+		titol 		=> $titol,
+		content 	=> $content,
+		n_slides	=> $n_slides,
+	);
+}
+# }}}
+
 
 # Show markdown file {{{
 sub show_markdown {
@@ -33,7 +75,7 @@ sub show_markdown {
 	# Read Markdown File
 	my $read_markdown = PresClase::Objects::ReadMarkdown->new( id_pres => $id_pres);
 	my $titol 				= $read_markdown->titol;
-	my $content 			= $read_markdown->content;
+	my $content 			= markdown $read_markdown->content;
 	my $n_slides 			= $read_markdown->n_slides;
 	
 	$self->render(
@@ -75,7 +117,7 @@ sub update {
 	my $find_pres_rs = $self->m_pres->find_pres($id_pres);
 	if (defined $find_pres_rs) {
  		$self->m_pres->update_pres($id_pres,$titol,$n_slides);
- 		$self->m_pres->del_diapos($id_pres);
+ 		$self->m_pres->del_slides($id_pres);
  	} else {
  		my $add_pres   = $self->m_pres->add_pres($titol,$n_slides);
  		$id_pres			 = $add_pres->id;
