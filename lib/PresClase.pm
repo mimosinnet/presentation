@@ -14,8 +14,12 @@ has schema => sub {
 sub startup {
   my $self = shift;
 
+	# Plugins {{{
 	my $config = $self->plugin('Config', file => 'presentacions.conf');
 	$self->secrets( $config->{'secrets'} );
+
+	$self->plugin('RevealJS');
+	# }}}
 
 	# Helpers {{{
 	$self->helper(db => sub { $self->app->schema });
@@ -35,13 +39,13 @@ sub startup {
   my $r = $self->routes;
 
   # Normal route to controller
-  $r->get('/')->to('presenta#llista_pres');
-	$r->get('/llista_pres')->to('presenta#llista_pres');
+  $r->get('/')->to('presenta#list_presentations');
+	$r->get('/list_presentations')->to('presenta#list_presentations');
 	$r->get('/presenta/:id/:diapo')->to('presenta#presenta');
 	$r->get('/admin/update')->to('presenta#update');
 	$r->get('/show_markdown/:id')->to('presenta#show_markdown');
 	$r->get('/diapos/:id')->to('presenta#diapos');
-	$r->get('/revealjs/:id')->to('presenta#revealjs');
+	$r->get('/reveal/:id')->to('presenta#reveal');
 	$r->get('/remark/:id')->to('presenta#remark');
 }
 

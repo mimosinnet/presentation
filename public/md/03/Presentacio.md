@@ -1,7 +1,10 @@
-# Gubernamentalidad
+# El gobierno de la subjetividad
 ---
-<!-- # Començament {{{ -->
-<!-- # 2:41 minuts -->
+<!-- # 1. Introducción {{{ -->
+
+# 1. Introducción
+
+---
 <video controls><source src="/media/03/V/Matrix_pastilla_roja_y_azul.mp4" type="video/mp4"></video>
 
 ---
@@ -10,10 +13,11 @@
 ---
 ![alt_text](/media/03/P/Exemples/Homosexualitat.jpg)
 
-DSM: Homosexualidad como enfermedad mental
+DSM: Homosexualidad como trastorno mental
 
 ---
 ![alt_text](/media/03/P/Exemples/Aversion_Therapy.jpg)
+
 ---
 ![alt_text](/media/03/P/Exemples/Aversion_Therapy.jpg)
 
@@ -22,6 +26,7 @@ Terapia aversiva cambia orientación sexual.</small>
 
 ---
 ![alt_text](/media/03/P/Exemples/Lobotomia.jpg)
+
 ---
 ![alt_text](/media/03/P/Exemples/Lobotomia.jpg)
 
@@ -35,6 +40,7 @@ las mujeres".</small>
 
 ---
 ![alt_text](/media/03/P/Exemples/Kohlberg_stages.png)
+
 ---
 ![alt_text](/media/03/P/Exemples/Kohlberg_stages.png)
 
@@ -47,6 +53,7 @@ quedándose en el nivel moral 3.
 
 ---
 ![alt_text](/media/03/P/Exemples/Take_pill.png)
+
 ---
 ![alt_text](/media/03/P/Exemples/Take_pill.png)
 
@@ -57,15 +64,16 @@ comportamiento.
 
 ---
 ![alt_text](/media/03/P/Exemples/Disforia.jpg)
+
 ---
 ![alt_text](/media/03/P/Exemples/Disforia.jpg)
 
-DSM-IV: Transtorno de Identidad de Género
+DSM-IV (1994): Transtorno de Identidad de Género
 
 * Identificación con el otro sexo. Síntomas como el deseo de pertenecer al otro sexo, ser considerado como del otro sexo, vivir o ser tratado como del otro sexo o la convicción de experimentar las reacciones y las sensaciones típicas del otro sexo.
 * Malestar persistente con el propio sexo o sentimiento de inadecuación con su rol. Síntomas como preocupación por eliminar las características sexuales primarias y secundarias (p. ej., pedir tratamiento hormonal)
 
-DSM-V: Disforia de género
+DSM-V (2013): Disforia de género
 
 * Desajuste psicológico, incongruencia 
 entre el Género asignado y el sentimiento 
@@ -73,7 +81,10 @@ personal
 * Disforia: Emoción desagradable o molesta, opuesto
 a la euforia. 
 
+<small>¿Cuál es el trastorno de Patricia Wurst?</small>
+
 ---
+![alt_text](/media/03/P/Matrix/Matrix.jpg)
 Te explicaré por qué estáis aquí. 
 Estáis porque sabéis algo. 
 Aunque lo que sabéis no lo podéis explicar. 
@@ -84,13 +95,14 @@ Algo no funciona en la psicología.
 ¿Te gustaría saber lo que es? Matrix nos rodea.
 Está por todas partes incluso ahora, en esta misma clase. 
 Es el conocimiento que ha sido puesto ante vuestros ojos 
-para ocultaros la verdad.
+para ocultaros la verdad psicológica.
 
-¿Alguna vez habéis tenido un sueño que pareciese muy real?
+¿Alguna vez habéis soñado que las teorías psicológicas son verdad?
 ¿Qué ocurriría si no pudieras despertar de ese sueño? 
-¿Cómo diferenciarías el mundo de los sueños de la realidad?
+¿Cómo diferenciarías la teoría psicológica de la relidad?
 ---
 ![alt_text](/media/03/P/Exemples/MatrixBluePillRedPill.jpg)
+
 ---
 ![alt_text](/media/03/P/Exemples/MatrixBluePillRedPill.jpg)
 
@@ -100,21 +112,26 @@ para ocultaros la verdad.
 
 <!-- # }}} -->
 
-<!-- # Estrategias de poder {{{ -->
+<!-- # 2. Poder y gestión de la población {{{ -->
 
 ---
-## ¿Cuál es el problema?
 
-* Mala praxis puntual
-
-* 'Matrix' psicológica al 
-   servicio del poder
+# 2. Poder y gestión de la población
 
 ---
-# Estrategias de poder
+## ¿Cuál es el problema de la Psicología?
+
+* Las ciencias psicológicas se equivocan frecuentemente.
+
+* El conocimiento piscológico es "verdadero" en un periodo histórico, pero no en otro.
+
+* La psicología participa de la "matrix" psicológica al servicio del "poder". 
+
+## ¿Siempre se "gestiona" igual a la gente?
 
 ---
 ![alt_text](/media/03/P/Poder/Paz.jpg)
+
 ---
 ![alt_text](/media/03/P/Poder/Paz.jpg)
 
@@ -164,64 +181,70 @@ Por *seguridad*,
 ![alt_text](/media/03/P/Poder/Maria_Segui.png)
 <!-- # Afirmacions de Maria Segui que diu que els accidents de tràfic -->
 <!-- # es deuen a la mobilitat -->
+
 ---
-## Accident prediction models for urban roads
-<p style="font-size: small">Greibe, P. (2003). Accident prediction models for urban roads. Accident Analysis & Prevention, 35(2), 273-285.</p>
+![alt_text](/media/03/P/Poder/Maria_Segui.png)
+
+"Existe un aumento de a movilidad y eso conlleva un aumento del riesgo de accidente".
+
+¿Por qué "vigilamos" tanto la tasa de alcoholemia y tan poco la movilidad?
+
+---
+![alt_text](/media/03/P/Poder/N340_sinistralitat.png)
+
+---
+* Greibe, P. (2003). **Accident prediction models for urban roads**. Accident Analysis & Prevention, 35(2), 273-285.
 
 > Explanatory variables describing road design and road geometry proved to be significant [...]. The most powerful variable for all models was motor vehicle traffic flow.
 
-## Estimating the causes of traffic accidents using logistic regression and discriminant analysis
-<p style="font-size: small">Karacasu, M., Ergül, B., & Yavuz, A. A. (2014). Estimating the causes of traffic accidents using logistic regression and discriminant analysis. International Journal of Injury Control and Safety Promotion, 21(4), 305-313.</small>
+* Karacasu, M., Ergül, B., & Yavuz, A. A. (2014). **Estimating the causes of traffic accidents using logistic regression and discriminant analysis**. International Journal of Injury Control and Safety Promotion, 21(4), 305-313.
 
-> According to the results of the logistic regression analysis, traffic sign, pavement type, vehicle type (motorcycle,automobile,...), purpose (private, public,...), education and primary fault (rear-end collision, Manoeuvre error,...) were determined to be significant variables. 
----
-![alt_text](/media/03/P/Poder/Contaminacio.png)
+> According to the results of the logistic regression analysis, traffic sign, pavement type, vehicle type (motorcycle,automobile,...), purpose (private, public,...), education and primary fault (rear-end collision, manoeuvre error,...) were determined to be significant variables. 
 ---
 ![alt_text](/media/03/P/Poder/Contaminacio.png)
 
-Poco control contaminación ambiental
+---
+![alt_text](/media/03/P/Poder/Contaminacio.png)
+
+Damos más importancia a los factores invididuales que a los contextuales.
 
 ---
-## Sabemos que los factores contextuales son explicativos
-* Salud laboral
-* Contaminación ambiental
-* Regulación tráfico
-* Especulación internacional
-* Contexto social y educativo
+## Sabemos que los factores contextuales son explicativos pero implantamos intervenciones individualizadas:
 
-## Pero implantamos intervenciones individualizadas:
-* Actos criminales
-* Hábitos personales salud
-* Forma de conducir
-* Precariedad laboral 
-* Fármacos 
+* **Criminalidad**: **castigo** - **condiciones de vida**.
+* **Salud**: **Hábitos personales** - **contexto ambiental**.
+* **Trabajo**: **Conseguir trabajo precario** - **Distribución de la riqueza**.
+* **Accidentes tráfico**: **Multas alcoholemia** - **Mejora tráfico**.
+* **Educación**: **Metilfenidato** (ritalín) - **Contexto educativo**.
 
-# ¿Error Fundamental de Atribución?
+### ¿Error Fundamental de Atribución?
 
 <!-- # }}} -->
 
-<!-- # Tecnologías de Poder {{{ -->
+<!-- # 3. Tecnologías de Poder {{{ -->
 
 ---
 ![alt_text](/media/03/P/Tecnologias/Tecnologia.jpg)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/Tecnologia.jpg)
 
-# Michel Foucault
-# Tecnologías de Poder
+# 3. Tecnologías de Poder
+
+Michel Foucault
 
 ---
 
-## Tecnología:
-diseño semiótico-material para producir,
+## Tecnología según Foucault:
+Diseño semiótico-material para producir,
 transformar y actuar sobre
 
 * Ciencias Naturales: **cosas**
 * Ciencias Comunicación: **signos**
-* Ciencias sociales: instituciones (**poder**)
+* Ciencias sociales: **instituciones**
 * Ciencias psicológicas: subjetividad (**yo**)
 
-<p style="font-size: xx-large">Tecnologías del yo</p>
+###Tecnologías del yo
 
 ---
 ## Dispositivos de poder:
@@ -236,6 +259,7 @@ Integración de tecnologias en una **Mentalidad de Gobierno**
 
 ---
 ![alt_text](/media/03/P/Tecnologias/1_Soberano.png)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/1_Soberano.png)
 
@@ -243,38 +267,61 @@ Soberano: Dispositivo Jurídico/Legal
 
 ---
 ![alt_text](/media/03/P/Tecnologias/2_Disciplina.png)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/2_Disciplina.png)
 
 Disciplina - Anatomopolítica: 
-Producción de Subjetividad y normalizacón.
-"Debo seguir la norma"
+
+* Producción de Subjetividad y normalización.
+* Preparar a los cuerpos para que sigan la norma.
+
+Debo seguir la norma
 
 ---
 ![alt_text](/media/03/P/Tecnologias/3_Sexualitat.png)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/3_Sexualitat.png)
 
 Sexualidad: 
 Producción y regulación del deseo.
+
 "Quiero seguir la norma"
 
 ---
 ![alt_text](/media/03/P/Tecnologias/4_Seguridad.jpg)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/4_Seguridad.jpg)
 
 Seguridad:
-Producción de riesgo para regular el futuro.
-"Evitar estar al otro lado de la frontera"
+Gestión del riesgo para regular el futuro.
+
+"Si entran, mi vida va a empeorar"
 
 ---
-# Guberna-mentalidad
+## Gubernamentalidad
 
-## Tecnologías del yo en la producción de subjetividad
+Integración de tecnologías del yo (soberano, disciplina, sexualidad, seguridad) para regular la población,...).
+
+
+<!-- # }}} -->
+
+<!-- # 4.- Gubernamentalidad Actual {{{ -->
 
 ---
-## Saber es poder (→ crea realidad)
+## 4. Gubernamentalidad Actual:
+
+1. Conocimiento experto normalizador
+2. Monitorización poblacional
+3. Creación y gestión de subjetividad 
+
+<!-- # 4.1 El conocimiento experto {{{ -->
+---
+## 4.1 El conocimiento experto normalizador
+
+Saber es poder (→ crea realidad)
 
 * Siglos XV a XVIII: procedimientos "científicos" para identificar "brujas". 
 * Hasta 1994 (APA): la ciencia demuestra que
@@ -284,56 +331,80 @@ tratar la homosexualidad.
 
 Brujas, homo/trans/sexuales, anorexia, TDAH,... 
 
-### ¿Verdad o gubernamentalidad?
+¿Cómo te sientes cuando te dicen que tienes un **trastorno**?
 
+### El conocimiento científico "crea" verdad y subjetividad
+
+<!-- }}} -->
+
+<!-- # 4.2  Monitorización poblacional {{{ -->
 ---
-## Gubernamentalidad Actual:
+## 4. Gubernamentalidad Actual:
 
-* Expertos, conocimientos, normalización, disciplinas
-* Rituales de verdad que interiorizan tecnologías de gobierno
-* Subjectividades deseantes que se "conforman".
-* Sociedad del riesgo para gobernar el futuro
-  (evitar el delito antes de que suceda)
-* Individualización de la vigilancia y control
-* Creación de 'subjetividades' adaptadas a
-  ser vigiladas 
+1. Conocimiento experto normalizador
+2. **Monitorización poblacional**
+3. Creación y gestión de subjetividad 
 
-<!-- # }}} -->
-
-<!-- # Monitorizar la Población {{{ -->
----
-![alt_text](/media/03/P/Tecnologias/Camara.jpg)
 ---
 ![alt_text](/media/03/P/Tecnologias/Camara.jpg)
 
-Monitorizar la Población
+---
+![alt_text](/media/03/P/Tecnologias/Camara.jpg)
+
+## 4.2 Monitorización poblacional
+
+* **Sociedades disciplinarias**: cuerpos normalizados
+* **Sociedades de control**: cuerpos monitorizados
 
 ---
 ![alt_text](/media/03/P/Tecnologias/Alcohol_Gasolinera.jpg)
----
-![alt_text](/media/03/P/Tecnologias/Alcohol_Gasolinera.jpg)
 
-Cómo monitoriza efectivamente a la Población
+Sociedad disciplinaria / sociedad de control
+
+---
+Monitorización poblacional en la sociedad de control
 
 * Control social invisible bajo la apariencia de "libertad"
 * Vigilancia constante (cuerpos virtuales)
 * Autovigilancia consentida
 * Información centralizada fuera del control público
 
-<hr>
+---
+![alt_text](/media/03/P/Tecnologias/Monitor.png)
 
-* **Sociedad disciplinaria**: cuerpos dóciles
-* **Sociedad de control**: monitorización de los cuerpos
+---
+![alt_text](/media/03/P/Tecnologias/Monitor.png)
+
+¿Quien debe ser vigilado?
+
+* Sociedad disciplinarias: "gente peligrosa"
+* Sociedad de control: toda la población 
+
+---
+![alt_text](/media/03/P/Tecnologias/Como_Vigilar.png)
+
+---
+![alt_text](/media/03/P/Tecnologias/Como_Vigilar.png)
+
+¿Cómo debemos ser vigilados?
+
+* Sociedad disciplinar: autoridad
+
+* Sociedad de control: autovigilancia!
 
 ---
 ![alt_text](/media/03/P/Tecnologias/Facebook_Etiquetar.png)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/Facebook_Etiquetar.png)
+
+Sociedad de control:
 
 Participamos en la vigilancia
 
 ---
 ![alt_text](/media/03/P/Tecnologias/Sherwood_1.png)
+
 ---
 ![alt_text](/media/03/P/Tecnologias/Sherwood_1.png)
 Dispositivo 
@@ -343,98 +414,197 @@ Seguridad
 ![alt_text](/media/03/P/Tecnologias/Sherwood_2.png)
 
 ---
-![alt_text](/media/03/P/Tecnologias/Monitor.png)
----
-![alt_text](/media/03/P/Tecnologias/Monitor.png)
+## Vigilancia constante
 
-¿Quien debe ser vigilado?
-
-* Sociedades tradicionales: "gente peligrosa"
-* Sociedades avanazadas: toda la población 
+"Si existe, está en Facebook"
 
 ---
-![alt_text](/media/03/P/Tecnologias/Como_Vigilar.png)
----
-![alt_text](/media/03/P/Tecnologias/Como_Vigilar.png)
-
-¿Cómo debemos ser vigilados?
-
-* Sociedades tradicionales: autoridad
-
-* Sociedades avanzadas: autovigilancia!
-
-<!-- # }}} -->
-
-<!-- # Construcción de Subjetividad {{{ -->
+![alt_text](/media/03/P/Facebook/Facebook_Censura_1.png)
 
 ---
-# Gobierno de la Subjetividad
+![alt_text](/media/03/P/Facebook/Facebook_Censura_2.png)
+
 ---
-## Tecnologías del yo en la Actualidad
+![alt_text](/media/03/P/Facebook/PRISM_1.jpg)
+Edward Snowden denuncia el espionaje masivo de la NSA
+
+---
+![alt_text](/media/03/P/Facebook/PRISM_2.jpg)
+La NSA usa las redes sociales para monitorizar la población.
+
+---
+![alt_text](/media/03/P/Facebook/Profiling.png)
+
+---
+![alt_text](/media/03/P/Facebook/Profiling.png)
+
+Gestión de los cuerpos virtuales
+
+* Comunicación electrónica
+* Reconocimiento facial 
+* Análisis semántico información
+* "Big Data"
+
+<big><b>Profiling</b></big>
+
+Evitar el delito antes de que suceda
+
+<!-- }}} -->
+
+<!-- # 4.3. Creación y gestión de subjetividad {{{ -->
+---
+## 4. Gubernamentalidad Actual:
+
+1. Conocimiento experto normalizador
+2. Monitorización poblacional
+3. **Creación y gestión de subjetividad**
+
+---
+## 4.3 Gobierno subjetividad
+
+Subjetividad actual:
 
 * Post-fordista y consumista
-* Deslocalizado, auto-construido, reflexivo, adaptable, líquido,...
-* Tecnologías virtuales de deslocalizción 
-* Auto-vigilancia, auto-consciencia y auto-producción del yo
-* Sistemas de control asociados a la dimensión virtual del sujeto
+* Auto-construida, reflexiva, líquida
+* Identidad virtual 
+* Hiper-real
+
+<!-- # Post-fordista y consumista {{{ -->
+---
+![alt_text](/media/03/P/Subjetividad/Yves_Rocher.jpg)
+
+### Post-fordista y consumista
+
+"*Sé tu misma, Yves Rocher*"
+---
+![alt_text](/media/03/P/Subjetividad/Yves_Rocher.jpg)
+
+Subjetividades Post-Fordistas
+
+* Centradas en el "yo" (yoistas) "es que yo..." ↔ agregación social ("nosotras...")
+* Importancia diferencia ↔ similitud 
+* Tendencia a la valoración positiva ("quiero ser mejor que... ")
+* Importancia apariencia (editar las fotos antes de colgarlas)
+* Pasivo, inmediato, fácil, rápido "Es lo que hay"
 
 ## ¿Dónde está nuestro verdadero "yo"?
 
----
-![alt_text](/media/03/P/Subjetividad/Yves_Rocher.jpg)
-"*Sé tu misma, Yves Rocher*"
+<!-- # }}} -->
 
+<!-- # Auto-construida, reflexiva, líquida {{{ -->
 ---
-# Psicología Positiva
-# Auto-Gobierno del "yo"
+### Auto-construida, reflexiva, líquida
+
+* Libros de autoayuda
+* **Psicología Positiva**
 
 ---
 ![alt_text](/media/03/P/Subjetividad/Psicologia_Positiva_1.png)
+
 ---
 ![alt_text](/media/03/P/Subjetividad/Psicologia_Positiva_1.png)
-Martin Seligman
+
+<small>
+Nota Mental: Martin Seligman
+
+El que usaba la terapia aversiva para curar la homosexualidad</small>
 
 ---
 ![alt_text](/media/03/P/Subjetividad/Psicologia_Positiva_2.png)
 
+<!-- # }}} -->
+
+<!-- # Identidad virtual {{{ -->
 ---
 ![alt_text](/media/03/P/Subjetividad/Disturbios_Londres_1.png)
+
 ---
 ![alt_text](/media/03/P/Subjetividad/Disturbios_Londres_1.png)
+
+### Identidad virtual
 
 * En el año 2011 hay grandes disturbios en las calles de Londres.
 * La gente se dedica a "robar" lo que no puede "comprar".
 
 ---
 ![alt_text](/media/03/P/Subjetividad/Disturbios_Londres_2.png)
+
 ---
 ![alt_text](/media/03/P/Subjetividad/Disturbios_Londres_2.png)
 
 * Lo que se roba, se muestra en "facebook".
 * Ponemos nuestras vidas en "facebook". 
+* Subjetividades adaptadas a ser vigiladas 
 
-## Autovigilancia
+**Autovigilancia**
+
+* Pero "yo controlo" lo que pongo en facebook
+
+* No lo controlas tu, lo controlan las demás personas para las que publicas el contenido.
 
 <!-- # }}} -->
 
-<!-- # Psicología Crítica {{{ -->
+<!-- # Hiper-Real {{{ -->
+---
+### Subjetividad hiper-real
+
+Realidad e Hiper-Realidad
+
+* Una "foto" es una "simulación de la realidad"
+
+* En la hiper-realidad, la realidad simula la foto (i.e. palmera Caribe).
+
+* La sociedad de consumo gran creadora de hiper-realidad (i.e. imagen corporal)
+
+* Fenómeno fan: relación hiper-real que idealiza sin compromiso.
+
+---
+<video controls><source src="/media/03/V/dove_evolution.flv" type="video/mp4"></video>
 
 ---
 
-# ¿Hay alternativas? 
+"Dime qué publicidad consumes y te diré quién eres"
+
+* Nos construimos mediáticamente 
+* Usar facebook nos hace "facebook" 
+* Las identidades simuladas se convierten en reales
+
+<!-- # }}} -->
+
+<!-- # }}} -->
+
+<!-- # ¿Hay alternativas? {{{ -->
+---
+![alt_text](/media/03/P/Facebook/Guerrilla_Travolaca.png)
 
 ---
-* 80's - Representaciones sociales
+![alt_text](/media/03/P/Facebook/Guerrilla_Travolaca.png)
+
+¿Hay alternativas?
+
+La sociedad de consumo instrumentaliza las identidades disidentes
+
+<!-- # }}} -->
+
+<!-- }}} -->
+
+<!-- # 5.- Psicología Crítica {{{ -->
+---
+# 5. Psicología Critica 
+
+---
+
+* <80  - Conductismo
+
+* 80's - Cognitivismo
 
 * 90's - Psicología Discursiva 
 
-* 00's - Performatividad, Semiótico-Material, ANT
+* 00's - **Psicología Crítica**
 
-Estas corrientes configuran la
-
-# Psicología Crítica
 ---
 ![alt_text](/media/03/P/PSC/Critical_Social.jpg)
+
 ---
 ![alt_text](/media/03/P/PSC/Critical_Social.jpg)
 
@@ -448,6 +618,7 @@ Estas corrientes configuran la
 
 ---
 ![alt_text](/media/03/P/PSC/the_matrix.jpg)
+
 ---
 ![alt_text](/media/03/P/PSC/the_matrix.jpg)
 
@@ -465,11 +636,12 @@ Herramientas
 <video controls><source src="/media/03/V/Hearing_voices.mp4" type="video/mp4"></video>
 <!-- # }}} -->
 
-<!-- # Género y Tecnología {{{ -->
+<!-- # 6.- Ejemplo gubernamentalidad {{{ -->
 
 ---
-# Ejemplo Gubernamentalidad: 
-# Género y Tecnología
+# 6. Ejemplo análisis gubernamentalidad
+
+# Brecha digital
 
 ---
 ![alt_text](/media/03/P/Genero_Tecnologia/Digital_Gap.gif)
@@ -493,13 +665,14 @@ Brecha Digital
 
 ---
 ![alt_text](/media/03/P/Genero_Tecnologia/Genero_Tecnologia.png)
+
 ---
 ![alt_text](/media/03/P/Genero_Tecnologia/Genero_Tecnologia.png)
 
+"*Europa es tuya: vivir, aprender y trabajar en cualquier lugar de la UE*"
+
 ¿Trabajar en cualquier lugar de la UE?
 
----
-![alt_text](/media/03/P/Genero_Tecnologia/Genero_Tecnologia_1.png)
 ---
 ![alt_text](/media/03/P/Genero_Tecnologia/Genero_Tecnologia_1.png)
 
@@ -511,7 +684,7 @@ Brecha Digital
 ¿Género y Tecnología?
 
 ---
-Perspectiva crítica gubernamental:
+Perspectiva crítica:
 
 * Problematizar la importancia de 'ciertas' tecnologías
 
@@ -520,134 +693,37 @@ Perspectiva crítica gubernamental:
 
 * Identificar intereses en la promoción de las TICs
 
-* Construir formas liberadoras de relacionar mujer y 
-   tecnología: i.e.: valorar las tecnologías de "cuidado"
+* Construir formas liberadoras de definir la tecnología. Por ejemplo, las 'tecnologías de cuidado'
 
 ---
-## TICs y Ciudadanía
+## Crítica relación entre TICs y Ciudadanía
 
 * Ciudadanía ⇒ inclusión, empoderamiento y reconocimiento.
 
 * "Buena ciudadana" ⇒ Aceptar actuales "regímenes de verdad"
 
-* Ciudadano: activo, responsable, autónomo, motivado,...
+* Ciudadanía actual: activa, responsable, autónoma, motivada,...
    (Rose, 1999)
 
-* Tecnología como herramienta de inclusión social
+* Las TIC se presentan como herramienta de inclusión social
 
-* Formas de gobernanza tecnológica
-
-* Inclusión social ⇒   subjetivación tecnológica neoliberal
+* Inclusión social ⇒ aceptar una subjetivación tecnológica neoliberal
 
 <!-- # }}} -->
 
-<!-- # Facebook {{{ -->
-
+<!-- # 7. Resumen {{{ -->
 ---
-# Facebook como espacio de Bio-Poder
+# 7.- Resumen
 
-# "Si existe, está en Facebook"
+1. La ciencia psicológica es "prejuiciosa"
+1. Estos prejuicios muestran "estrategias de poder"
+1. Las estrategias de poder tienen un carácter histórico
+1. La "psicología" participa de las actuales formas de gubernamentalidad
+1. La gubernamentalidad actual monitoriza cuerpos y subjetividades
+1. La Psicología Crítica cuestiona las actuales formas de gubernamentalidad
+1. Ejemplo: la "promoción de las TICs" legitima las tecnologías "masculinas" (tecnología) frente a las "femeninas" (cuidado)
 
----
-Realidad e Hiper-Realidad
-
-* Realidad ↔ Simulación realidad
-
-* La "realidad" copia a la "simulación" 
-  ⇒ hiperrealidad: mundo "disney" (palmera en caribe)
-
-* Sociedad consumo ⇒ la simulación deviene "más real"
-   que la realidad, prefiriendo la "simulación" a la
-   "realidad" (i.e. imágenes corporalesi).
-
-* Efecto "fan": idealización sin compromiso
-
----
-<video controls><source src="/media/03/V/dove_evolution.flv" type="video/mp4"></video>
-
----
-
-* Nos hacemos en base a la exposición publicitaria
-
-* Usar facebook nos hace facebook
-
-## Las identidades simuladas se convierten en reales
-
----
-Subjetividades Post-Fordistas
-
-* Preocupación por  el "yo" ↔ agregación social
-* Importancia diferencia ↔ similitud i
-* Tendencia a la valoración positiva ("¿quien lava más blanco?")
-* Importancia apariencia (editar las fotos antes de colgarlas)
-* Pasivo, inmediato, fácil, rápido "Es lo que hay"
-
----
-![alt_text](/media/03/P/Facebook/Facebook_Censura_1.png)
-
----
-![alt_text](/media/03/P/Facebook/Facebook_Censura_2.png)
-
----
-![alt_text](/media/03/P/Facebook/PRISM_1.jpg)
-Edward Snowden
-
----
-![alt_text](/media/03/P/Facebook/PRISM_2.jpg)
-Edward Snowden
-
----
-![alt_text](/media/03/P/Facebook/Profiling.png)
-
----
-![alt_text](/media/03/P/Facebook/Profiling.png)
-
-Gestión de los cuerpos virtuales
-
-* Comunicación electrónica
-* Reconocimiento facial 
-* Análisis semántico información
-* "Big Data"
-
-<big><b>Profiling</b></big>
-
----
-![alt_text](/media/03/P/Facebook/Guerrilla_Travolaca.png)
----
-![alt_text](/media/03/P/Facebook/Guerrilla_Travolaca.png)
-
-Uso subjetividades
-disidentes
-
-<!-- # }}} -->
-
-<!-- # General Intellect {{{ -->
-
----
-![alt_text](/media/03/P/General_Intellect/Guifi_net.png)
-
-General Intellect
-
----
-Inteligencia al servicio producción
-
-* Privatización de "lo común"
-* Mercantilización de la vida
-* Conocimiento como "mercancía"
-* Privatización pensamiento
-* Precarización del conocimiento
----
-"General Intellect"
-
-El factor clave en la producción 
-no son los medios de producción, 
-es el conocimiento social que permite 
-la organización de la producción.
-
----
-![alt_text](/media/03/P/General_Intellect/Creative_Commons.png)
-
-<!-- # }}} -->
+<!--- # }}} -->
 
 ---
 # Gràcies!

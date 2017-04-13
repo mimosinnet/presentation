@@ -3,6 +3,7 @@ package PresClase::Objects::ReadSlide;
 use Mojo::Base -base;
 use PresClase::Schema;
 use PresClase::Model::Slides;
+use Text::Markdown qw{ markdown };
 
 has m_pres => sub {
 	my $self = shift;
@@ -39,7 +40,7 @@ has 'slide' => sub {
 
 has 'diapositiva' => sub {
 	my $self = shift;
-	return $self->slide->diapositiva;
+	return markdown $self->slide->diapositiva;
 };
 has 'background' => sub {
 		my $self = shift;

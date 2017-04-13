@@ -1,3 +1,14 @@
+:root {
+  --dark-primary-color: 		#689F38;
+  --default-primary-color: 	#8BC34A;
+  --light-primary-color: 		#DCEDC8;
+  --text-primary-color: 		#212121;
+  --accent-color: 					#FF5722;
+  --primary-text-color: 		#212121;
+  --secondary-text-color: 	#757575;
+  --divider-color: 					#BDBDBD;
+}
+
 body {
 	margin: 0;
   padding: 0;

@@ -8,8 +8,11 @@
 % my ($div_box, $div_contingut) = $slide->div;
 %# }}}
 
-% layout 'diapositiva';
+% layout 'slide';
 % title $title;
+
+<div class="slide-left"  onclick="location.href = '<%= $prev %>';"></div>
+<div class="slide-right" onclick="location.href = '<%= $next %>';"></div>
 
 <div class="list-diapos-top">
 	<p>
@@ -23,7 +26,7 @@
 	</p>
 </div>
 
-<div id="next-slide" onclick="location.href = '<%= $next %>';">
+<div id="next-slide" ondblclick="location.href = '<%= $next %>';">
 	%== $div_box
 		%== $div_contingut
 			%== $diapositiva
@@ -43,5 +46,18 @@
 	</p>
 </div>
 
+<script>
+$(document).ready(function(){
+   $(document).keydown(function(e) {
+			if ( e.which === 33 ) {
+				e.preventDefault();
+				window.location.href = '<%= $prev %>';        
+			} else if ( e.which === 34 ) {
+				e.preventDefault();
+				window.location.href = '<%= $next %>'; 
+			} 
+	 });
+});
+</script>
 
 %# vim: tabstop=2 shiftwidth=2

@@ -1,47 +1,48 @@
 # Tema 1: Comunicació i cultura
+
+<!-- # 1. Paradigmes {{{ -->
 ---
-# Paradigmes
+# 1. Paradigmes
 
 ---
-## Paradigmes (Kuhn)
+## Paradigmes Científics (Kuhn)
 
-* Teoria, model o marc conceptual, acceptat universalment, que
-agrupa i sintetitza el coneixement de la disciplina en un
-moment històric determinat, guiant el camí de la investigació
+* Agrupen i sintetitzen el coneixement de la disciplina guiant el camí de la investigació
 científica.
 
-* A partir de l'adopció d'un paradigma, la investigació científica
-busca “meter a la fuerza a la naturaleza en los compartimentos
-prefabricados y relativamente inflexibles” que el paradigma
-subministra
+* El paradigma “mete a la fuerza a la naturaleza en los compartimentos
+prefabricados y relativamente inflexibles”.
 
 * “No hay un estándar mayor que el asentimiento de la comunidad”
----
-* La impossibilitat de resoldre els problemes és un indicador de
-la falta d'enginy dels científics, no de les insuficiències del
-paradigma.
 
-> Exemple: V postulat d'Euclides (300 a.C), que es pot formular
+* "Si la hipòtesi surt falsa és un problema de la investigació, no del paradigma".
+
+---
+![alt_text](/media/05/P/Paradigma/lobatxevski.jpg)
+
+Euclides i Lobatxevsky
+
+---
+![alt_text](/media/05/P/Paradigma/lobatxevski.jpg)
+
+> V postulat d'Euclides (300 a.C), que es pot formular
 com «Les rectes paral·leles són equidistants» (Posidoni, segles
 I-II a. C.)
 
-> s. XIX: Lobatxevsky: es pot pensar en una geometria que no
+> s. XIX: Lobatxevsky: en un pla, per un punt fixe, passen con a mínim 2 paral·leles a una recta.
+
+Lobatxevsky construeix una geometria que no
 segueix el V postulat.
 
 ## Altres exemples?
 
 ---
-![alt_text](/media/05/P/Homeopatia_Jueves.png)
----
-![alt_text](/media/05/P/Homeopatia_Vinyeta.png)
----
-![alt_text](/media/05/P/Homeopatia_Publico.png)
----
-## Comprensions creen Paradigmes
+![alt_text](/media/05/P/Paradigma/Homeopatia_Vinyeta.png)
 
-## Thomas Samuel Kuhn (1922-96)
-
-Paradigmes:
+---
+![alt_text](/media/05/P/Paradigma/Homeopatia_Publico.png)
+---
+## Els paradigmes:
 
 * Defineixen què ha de ser observat
 * Quines preguntes son rellevants
@@ -50,14 +51,21 @@ Paradigmes:
 * Quins procediments permeten posar a prova les preguntes
 * Canvi de paradigmes -> revolució científica.
 
+<!-- # }}} -->
+
+<!-- # 2. Paradigmes en Comunicació {{{ -->
+
 ---
-# Comprensions Clàssiques
+# 2. Paradigmes en Comunicació
+
 ---
 ![alt_text](/media/05/P/Transport_Mapa.jpg)
 # Comprensions Clàssiques
+
 ---
 ![alt_text](/media/05/P/Transport_Correus.jpg)
 <center>Metàfora 1</center>
+
 ---
 ![alt_text](/media/05/P/Transport_Correus.jpg)
 ## «Comunicació com a transport»
@@ -90,22 +98,26 @@ comunicació és un component bàsic dels sistemes de distribució
 i regulació. Sistema vascular (carreteres, canals, vies de
 tren,...) i el nerviós (premsa, enquestes,...).
 
-<!-- Els primers models {{{ --> 
+<!-- # }}} -->
+
+<!-- # 3. Els primers models {{{ --> 
 ---
 ![alt_text](/media/05/P/Lasswell_Audiencia.png)
+
 ---
 ![alt_text](/media/05/P/Lasswell_Audiencia.png)
-## Els Primers Models:
+
+# 3. Els Primers Models:
 
 1. Harold Lasswell
 1. Claude Elwood Shannon
 1. La Cibernètica
 1. Quina és la influència dels mijans?
 
-<!-- Harold Lasswell {{{ -->
+<!-- # 3.1 Harold Lasswell {{{ -->
 
 ---
-## 1. Harold Lasswell (1902-78)
+## 3.1. Harold Lasswell (1902-78)
 
 **No hem de saber què es la comunicació, només com funciona: Qui, què, com, a qui, amb quin efecte.**
 
@@ -125,16 +137,18 @@ contingut. Mètodes objectius, sistemàtics i quantitatius
 **Què s'estudia i a qui l'interessa aquests estudis?**
 ---
 ![alt_text](/media/05/P/Lasswell_Diagrama.png)
+
 ---
 ![alt_text](/media/05/P/Lasswell_Drogas_Abre_Ojos.png)
 
 <!-- }}} -->
-<!-- 2. Claude Elwood Shannon {{{ -->
+<!-- # 3.2. Claude Elwood Shannon {{{ -->
 ---
 ![alt_text](/media/05/P/Shannon.png)
+
 ---
 ![alt_text](/media/05/P/Shannon.png)
-## 2. Claude Elwood Shannon
+## 3.2. Claude Elwood Shannon
 ---
 Context Històric
 
@@ -158,7 +172,7 @@ comunicació. La noció d'informació es basa en els instruments
 desenvolupats durant la 2ª Guerra Mundial i va prendre l'estatus d'un símbol calculable.
 
 ---
-> Comunicació: "reproduir en un punt determinat exacta o
+> **Comunicació**: "reproduir en un punt determinat exacta o
 aproximadament un missatge seleccionat en un altra punt".
 Comunicació com a cadena d'elements: font d’informació
 (produeix el missatge), codificador o transmissor (transforma
@@ -166,6 +180,7 @@ el missatge), canal (mitjà per transmetre la informació),
 decodificador o receptor, i destinatari.
 ---
 ![alt_text](/media/05/P/Shannon_Model.png)
+
 ---
 * El model s'adopta ràpidament i es tornen populars els conceptes
 de: informació, transmissió d'informació, codificar,
@@ -194,12 +209,12 @@ Soroll
 ![alt_text](/media/05/P/Wert_Homogeneo.png)
 
 <!-- }}} -->
-<!-- 3.- Influència de la Cibernètica {{{ -->
+<!-- # 3.3. Influència de la Cibernètica {{{ -->
 ---
-## 3 Influència de la cibernètica
+## 3.3. Influència de la cibernètica
 ---
 ![alt_text](/media/05/P/Cibernetica.jpg)
-## 3 Influència de la cibernètica
+## 3.3. Influència de la cibernètica
 ---
 * 1948: Wiener publica "Cibernètica o Control i Comunicació en
 l'Animal i la Màquina". Suggereix una 'societat de la
@@ -228,22 +243,32 @@ errors en la comunicació (antídot a l’entropia). La majoria de
 les llengües són redundants. Element indispensable de la
 comunicació efectiva.
 
-# L'avanç de l'entropia és proporcional al decaure del progrés.
+## L'avanç de l'entropia és proporcional al decaure del progrés.
 
 ---
 ![alt_text](/media/05/P/Entropia.jpg)
+
 ---
 <video controls><source src="/media/05/V/What_is_Information_Entropy_Shannon.mp4" type="video/mp4"></video>
+
 ---
 ## Exemple: Generador Automàtic d'Articles Científics:
+(Els articles científics tenen "poca" entropía)
 <iframe src="https://pdos.csail.mit.edu/archive/scigen/#examples"></iframe>
+
 ---
 ## Exemple: Generador Automàtic de xerrameca empresarial
 <iframe src="http://www.doctorproaudio.com/calculador-verborrea-empresarial/"></iframe>
+
 ---
 ![alt_text](/media/05/P/Feedback.png)
+
 ---
-# Comunicar és elmateix que transmetre informació?
+![alt_text](/media/05/P/Feedback.png)
+* El feedback és una altra contribució de la cibernètica
+
+---
+## Però, comunicar és elmateix que transmetre informació?
 
 ---
 <small>¿Això és comunicació?</small>
@@ -256,19 +281,17 @@ comunicació efectiva.
 * Els programes son formals (sintaxi)
 * La ment té continguts mentals (semàntica)
 * La sintaxi no és constitutiva o suficient per explicar o emular la semàntica
-<!-- }}} Cibernètica -->
-<!-- 4.- Influència dels mitjans {{{ -->
---- 
-## 4. Quina és la influència dels mitjans?
+<!-- # }}} -->
+<!-- # 3.4. Influència dels mitjans {{{ -->
 ---
 ![alt_text](/media/05/P/Agenda_Setting.jpg)
-# Quina és la influència dels mitjans?
+## 3.4 Quina és la influència dels mitjans?
 
 ---
 ![alt_text](/media/05/P/Agenda_Setting.jpg)
-# La importància dels grups
+## 3.4.1 La importància dels grups
 
-## D'on aconseguiu la informació?
+**D'on aconseguiu la informació?**
 
 ---
 # Grups i Lideratge
@@ -286,10 +309,12 @@ entre els mitjans i el públic.
   1. Contacte líders d'opinió i el grup primari.
 ---
 ![alt_text](/media/05/P/GateKeeper.png)
+
 ---
 ![alt_text](/media/05/P/Gatekeepers.gif)
+
 ---
-# Audiència Activa
+## 3.4.2 Audiència Activa
 
 ## Teoria dels Usos i les Gratificacions
 
@@ -301,11 +326,12 @@ televisió.
 * La gent és conscient de les seves preferències i les aplica a la selecció de programes.
 
 Si la audiència és activa, **quina és la influència dels mitjans**? 
-### Con va guanyar Donald Trump?
+---
+## 3.4.3 Tematització / L'agenda setting
+
+Con va guanyar les eleccions Donald Trump?
 ---
 ![alt_text](/media/05/P/Agenda_Setting.jpg)
-
-## Influència Mitjans
 
 * Els mitjans creen un univers de significats amb influència a mitjà termini.
 
@@ -313,6 +339,7 @@ Si la audiència és activa, **quina és la influència dels mitjans**?
 
 ---
 ![alt_text](/media/05/P/Agenda_Setting_Eleccions_EEUU.png)
+
 ---
 ![alt_text](/media/05/P/Agenda_Setting_Eleccions_EEUU.png)
 ## Com va guanyar Trump la presidència dels EEUU?
@@ -323,21 +350,23 @@ Si la audiència és activa, **quina és la influència dels mitjans**?
 <p style="font-size: small">http://www.elpais.com.uy/informacion/reaccion-lideres-mundo-victoria-donald.html</p>
 
 ---
-# La Xarxa
-# La revolució dels mitjans
+## 3.4.5 La Xarxa
 
-## Facebook Comença 2004
+La revolució dels mitjans
+
+Facebook Comença 2004
 
 Visió de la Xarxa el 2007
 
 <video controls><source src="/media/05/V/Prometeus_The_Media_Revolution.mp4" type="video/mp4"></video>
 
+<!-- # }}} -->
 
-<!-- }}} Influència Mitjans--->
+<!-- # }}} -->
 
-<!-- }}} Primers Models -->
+<!-- # 4. Funcionalisme {{{ -->
 ---
-# Funcionalisme
+# 4. Funcionalisme
 
 ---
 ## La Perspectiva Funcionalista
@@ -362,7 +391,7 @@ Perspectiva organicista (societat com a organisme).
 ---
 ![alt_text](/media/05/P/Wert_Biodiversidad.png)
 ---
-# Funcions i Disfuncions
+## Funcions i Disfuncions
 
 * Classificació Funcions: Lazarsfeld i Merton diferencien entre
 funcions manifestes (reconegudes i volgudes pels membres del
@@ -420,6 +449,7 @@ comercial.
 ---
 ![alt_text](/media/05/P/Entrevista_Feina.png)
 # Problemes amb els models Lasswell i Shannon
+
 ---
 ![alt_text](/media/05/P/Entrevista_Feina.png)
 

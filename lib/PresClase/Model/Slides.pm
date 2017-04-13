@@ -1,6 +1,5 @@
 package PresClase::Model::Slides;
 use Mojo::Base -base;
-use Text::Markdown qw{ markdown };
 
 has 'db';
 
@@ -59,10 +58,11 @@ sub add_diapos {
 			($background)  = ( $diapositiva =~  /!\[alt_text\]\((.*)\)/ );
 			$diapositiva = $diapositiva =~ s/^!\[alt_text\].*\n//r ;
 		}
-
+		
+		# The content of the slide (diapositiva) is saved as markdown (diapositiva)
 		$self->db->resultset('Diapositiva')->create({
 			numero 			=> $numero,
-			diapositiva => markdown($diapositiva),
+			diapositiva => $diapositiva,
 			presentacio => $id_pres,
 			background 	=> $background
 		});

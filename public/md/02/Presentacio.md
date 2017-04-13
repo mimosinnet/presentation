@@ -1,13 +1,25 @@
-# Diversitat Sexual
----
-<video controls><source src="/media/02/V/La_Rebelión_de_Stonewall.mp4" type="video/mp4"></video>
+## Sesión anterior:
 
-<!---	Investigación Psicológica: Falometría, Radar Gay, {{{
+* Los procesos gubernamentales configuran nuestra subjetividad
+
+## Sesión actual:
+
+* El gobierno de la diversidad corporal, sexual y afectiva
+
+---
+<!-- # 1. Modelo Clásico de Sexualidad: Falometría, Radar Gay, {{{
 	A revisar: 
 	http://vistriai.com/kinseyscaletest/ 
 -->
+
+# 1. Modelo clásico sexualidad
+
+* Estímulo sexual -> respuesta sexual
+* Sexualidad anclada en la biología
+
 ---
-  
+## 1.1. Falometría
+
 **Checoslovakia década de los 50**:
 El gobierno quiere detectar falsos 
 homosexuales que quieren evitar 
@@ -17,9 +29,9 @@ el servicio militar.
 dispositivo "psicofisiológico" para 
 identificar homosexuales
 
-# Falometría
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
+
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/Dibujo_Aparato.jpg)
  
@@ -29,24 +41,26 @@ Falometría:
 * a partir de los 60's: Diagnosticar pederastas, pedófilos, ...
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/British_Columbia.png)
+
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/British_Columbia.png)
-<span background='black'>British Columbia, Canada, prohíbe el uso de la falometría en adolescentes bajo tratamiento por delitos sexuales.
+"El test falométrico requiere que se muestren imágenes de niños y niñas semi-vestidos y se escuchen descripciones de forcejeos sexuales a jóvenes a partir de 13 años".
+
+
+British Columbia, Canada, para los tests falométricos el año 2010.
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
+
 ---
 ![alt_text](/media/02/P/PsycpPhisioTest/República_Checa_hace_test_gays.png)
-<span background='black'>La UE critica el 'test falométrico' a solicitantes de asilo para saber si son realmente 'gays'.
+La UE critica el 'test falométrico' a solicitantes de asilo para saber si son realmente 'gays'.
+
 ---
 2014: Los resultados falométricos pueden ser manipulados cognitivamente 
 
 >	Overall the data suggest **some** value to phallometric assessments 
 	but caution in the interpretation of results is recommended. 
-	In particular an apparently “normative” profile should 
-	not be viewed as indicating the client does not have
-	persistent deviant interests since offenders and nonoffenders
-	alike can readily control their erectile responses and these
-	manipulations cannot be easily discerned. While Freund,
+	[...] While Freund,
 	Watson and Rienzo (1988) were able to identify attempts by some
 	sex offenders to alter their responses, the only attempts they
 	could reasonably consistently discern were those where the
@@ -56,11 +70,9 @@ Falometría:
 	with **the most common by far involving cognitive strategies
 	such as distraction  which, of course, cannot be readily observed**.
 
-<p style="font-size:small">Marshall, W.L. (2014). <i>Phallometric Assessments of Sexual Interests: An Update</i></p>
+<p style="font-size:50%">Marshall, W.L. (2014). <i>Phallometric Assessments of Sexual Interests: An Update</i></p>
 ---
-# Homosexualidad y Genes
----
-## El gen Gay: Xq28
+## 1.2. El gen Gay: Xq28
 
 1993: Dean Hammer, "padre" del gen "gay"
 
@@ -71,15 +83,26 @@ que algunas formas de homosexualidad son
 transmitidas a través de los miembros
 femeninos de una familia*.
 
-<p style="font-size:small">Hamer DH, Hu S, Magnuson VL, Hu N, Pattatucci AML. (1993). A linkage between 
+<p style="font-size:50%">Hamer DH, Hu S, Magnuson VL, Hu N, Pattatucci AML. (1993). A linkage between 
 DNA markers on the X-chromosome and male sexual orientation. <i>Science</i> 261:321-7. </p>
+
 ---
 ![alt_text](/media/02/P/Cartografias/Article_1.png)
 <!-- #  veure http://www.mygenes.co.nz/ -->
+
+---
+![alt_text](/media/02/P/Cartografias/Article_1.png)
+2014: "estudio más amplio con 409 pares de hermanos homosexuales"
+
 ---
 ![alt_text](/media/02/P/Cartografias/Article_3.png)
+
 ---
-<p style="font-size:small">Neil Whitehead y Briar Whitehead (2014). My Genes Made Me Do It!</p>
+![alt_text](/media/02/P/Cartografias/Article_3.png)
+"La influencia hormonas prenatales és débil"
+
+---
+<p style="font-size:50%">Neil Whitehead y Briar Whitehead (2014). My Genes Made Me Do It!</p>
 
 <!-- #  Neil Whitehead, bioquímic -->
 
@@ -88,35 +111,49 @@ DNA markers on the X-chromosome and male sexual orientation. <i>Science</i> 261:
 ---
 ![alt_text](/media/02/P/Cartografias/Article_6.png)
 
-El "radar" Gay
+## 1.3. El "radar" Gay
 ---
 ![alt_text](/media/02/P/Cartografias/Article_7.png)
+
 ---
 ![alt_text](/media/02/P/Cartografias/Article_7.png)
 Mirando una fotografía podemos averiguar la orientación sexual.
+
 ---
 ![alt_text](/media/02/P/Cartografias/GayDar.jpg)
+
 ---
 ![alt_text](/media/02/P/Cartografias/GayDar.jpg)
 > _No encontramos ninguna evidencia de la conclusión de los trabajos previos que las caras de persones gays o lesbianas sean distintas a las de personas heterosexuales.  El status grupal de gays y lesbianas se hace "visible" a través de estereotipos culturales". El concepto de "radar gay" es un mito que refuerza este proceso de estereotipación._
 
-<p style="font-size:small">William T. L. Cox, Patricia G. Devine, Alyssa A. Bischmann, and Janet S. Hyde (2015).  Inferences About Sexual Orientation: The Roles of Stereotypes, Faces, andThe Gaydar Myth. DOI:10.1080/00224499.2015.1015714. </p>
+<p style="font-size:50%">William T. L. Cox, Patricia G. Devine, Alyssa A. Bischmann, and Janet S. Hyde (2015).  Inferences About Sexual Orientation: The Roles of Stereotypes, Faces, andThe Gaydar Myth. DOI:10.1080/00224499.2015.1015714. </p>
 
 ---
+## 1.4. Crítica al modelo clásico
+
 Se trata de investigación
 psicológica que:
 
-* Buscar una "fundamentación"
-biológica a una diferencia
-"social"
+* Fundamenta biológicamente las diferencias sociales.
 
 * Legitima ideas sociales y
 políticas preconcebidas
 
-<hr>
-
-## ¿Quién busca el "gen" de la heterosexualidad?
 ---
+![alt_text](/media/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
+
+---
+![alt_text](/media/02/P/PsycpPhisioTest/Homosexuales_Cébiles.png)
+
+---
+![alt_text](/media/02/P/PsycpPhisioTest/Homosexuales_Cébiles.png)
+11/02/2017
+
+---
+<big>Se invisibiliza y regula lo "normal" a partir de lo "desviado".</big>
+
+<big>¿Cómo es que no se busca el "gen" de la heterosexualidad?</big>
+
 Norma Heterosexual
 
 * ¿Qué piensas que causó tu heterosexualidad?
@@ -131,52 +168,42 @@ llevabas dentro?
 un miedo neurótico a otras personas del mismo
 sexo?
 
-<big>Se invisibiliza y regula lo "normal" a partir de lo "desviado".</big>
 ---
-![alt_text](/media/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
+![alt_text](/media/02/P/Corporeidad/The_Ghost_in_the_Machine.jpg)
+
 ---
-![alt_text](/media/02/P/Cartografias/Psiquiatras_Tratamiento_Homo.jpg)
-
-Eysenk, H.J. (1971): Raza, inteligencia y educación.
-
-> <i>toda la evidencia de que se dispone a día de hoy 
-apunta al ...  decisivo papel que juega el factor 
-genético para producir la enorme variedad de diferencias 
-intelectuales que observamos en nuestra cultura, y muchas 
-de las diferencias que se observan entre ciertos grupos raciales</i>
-
-* Hay diferencias en el CI entre personas blancas y negras
-* Estas diferencias tienen base biológica
-
-Marín Gonzáles, José (2003). Las “razas” biogenéticamente, no existen, pero el racismo sí, como ideología. 
----
+![alt_text](/media/02/P/Corporeidad/The_Ghost_in_the_Machine.jpg)
 <!-- #  Gilbert Ryle -->
-Estructura del argumento: "El Fantasma en la Máquina"
+
+Estructura del argumento: *El Fantasma en la Máquina*
 
 * El coche se mueve
 * El coche "tiene" velocidad, el coche "es" veloz
-
-¿Qué pieza es responsable de "la velocidad"?
-
-* Los neumáticos afectan la velocidad
-* Conclusión: La velocidad tiene una dimensión neumática
+* ¿Dónde está "la velocidad"? ¿En la gasolina o en los neumáticos?
 
 * La niña se mueve ⇒ La niña "tiene" TDAH
+* ¿Dónde está el TDAH? ¿En los genes o en el cerebro?
+
 * Joan tiene sexo con Pere ⇒ Joan "es" gay
 * Joan tiene la piel negra ⇒ Joan "es" negro
-* Joan "es" vegetariano, ¿gen vegetariano?
+
+<!-- }}} -->
+<!-- # 2. Cartografías Corporales {{{ -->
 ---
-# Cartografías Corporales
+# 2. Cartografías Corporales
 ---
 ![alt_text](/media/02/P/Cartografias/Mapa_Revés.png)
+
 ---
 ![alt_text](/media/02/P/Cartografias/Mapa_Revés.png)
 
 Tabula Rogeriana, dibujada por Al-Idrisi para Roger II de Sicilia en el 1154.
 ---
 ![alt_text](/media/02/P/Cartografias/Mapa_Revés_derecho.png)
+
 ---
 ![alt_text](/media/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
+
 ---
 ![alt_text](/media/02/P/Cartografias/Hombres_Marte_Mujeres_Venus.png)
 * Marcianos: poder, competencia, eficiencia, éxito
@@ -184,27 +211,34 @@ Tabula Rogeriana, dibujada por Al-Idrisi para Roger II de Sicilia en el 1154.
 * Venusianas: amor, comunicación, belleza, relaciones 
 (pasivas, intuitivas, sumisas y subjetivas).
 ---
+## Binarismo de género
 Nombramos y representamos en términos
 **dicotómicos y jerárquicos**
 
 * Masculino ↔ Femenino
 * Hetero ↔ Homo
-* Trans/intersex : "En términos simples: es una mujer encerrada en un cuerpo de hombre"
+* Trans/intersex: "En términos simples: es una mujer encerrada en un cuerpo de hombre"
 
-<big>**Los sistemas semióticos editan y producen el mundo.**</big>
+* La identidad sexual es fluida y cambiable.
+* Nuestros categorías binarias son rígidas y esterotipadas.
+* El binarismo de género reproduce y mantiene las normas de sexo y género.
+
 ---
 ![alt_text](/media/02/P/Cartografias/Bic_for_her.jpg)
+
 ---
 ![alt_text](/media/02/P/Cartografias/Mapa.png)
+
 <!-- #  }}} -->
-<!-- #  La construcción de los Cuerpos {{{ -->
+<!-- # 3. La construcción de los Cuerpos {{{ -->
 ---
-# La construcción de los Cuerpos
+# 3. La construcción de los Cuerpos
 ---
-Laqueur, T. (1990). <i>La Construcción
+![alt_text](/media/02/P/Laqueur/Laqueur_La_Construccion_del_Sexo.jpg)
+<p style="font-size: 50%">Laqueur, T. (1990). <i>La Construcción
 del sexo cuerpo y género desde los
 griegos hasta Freud</i>.  Madrid
-Cátedra, 1994.
+Cátedra, 1994.</p>
 
 * Médico, analiza representación
 anatómica hombre y mujer lo largo de la
@@ -215,14 +249,18 @@ sexo y género han cambiado a lo largo de
 su historia.
 ---
 ![alt_text](/media/02/P/Laqueur/vesalius_page_174_large.jpg)
+
 ---
 ![alt_text](/media/02/P/Laqueur/vesalius_page_174_large.jpg)
-Dibujo cuerpo humano
+Dibujo cuerpo humano S.XVI
+
 ---
 ![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
+
 ---
 ![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
-Dibujo genitales
+Dibujo genitales S.XVI i XVII
+
 ---
 ![alt_text](/media/02/P/Laqueur/Vagina_Como_Pene.png)
 Durante gran parte de la
@@ -231,15 +269,20 @@ historia occidental, los
 son representados similares a
 los del hombre, con una
 complexión "inferior". 
+
 ---
 ![alt_text](/media/02/P/Laqueur/640px-Organ_Systems_II.jpg)
 Actualidad
+
 ---
 ![alt_text](/media/02/P/Corporeidad/prevencion_cancer_mama.jpg)
+
 ---
 ![alt_text](/media/02/P/Corporeidad/prevencion_cancer_mama.jpg)
 Se aconsejan mamografía a partir de los 45-50
-¿Qué pechos se muestran en las campañas de prevención?
+
+Pero se muestran pechos de mujeres de menor edad.
+
 ---
 Eyaculación Femenina
 
@@ -251,10 +294,12 @@ es un mito.
 * A principios de los 90 Masters considera que ocurre en algunas
 mujeres.
 * 2013: Técnicas de "eyaculación femenina".
+
 ---
 ![alt_text](/media/02/P/Laqueur/Eyaculación_Femenina.jpg)
+
 ---
-"Transexualidad" F inales S.XVI
+"Transexualidad" Finales S.XVI
 
 > Marie de Marcis quiere casarse con su sirvienta es
 acusada de sodomía (órgano incorrecto en el lugar
@@ -269,19 +314,16 @@ Preocupación de que pueda llevar un rol masculino.
 Actualidad:
 Trámites para el cambio legal de nombre y sexo
 
-* Informe de disforia de género del  médico o 
-  psicólogo ("tengo un transtorno mental"
-  → ¿implicaciones?).
+* Informe de disforia de género del médico o 
+  psicólogo ("tengo un transtorno mental").
 * Informe del médico que confirme el
   tratamiento de al menos dos años para acomodar
-  tu cuerpo a las características físicas que
-  realmente deseas alcanzar.
+  el cuerpo a las características físicas que
+  deseas alcanzar.
 
-Importancia de la dimensión "corporal".
-
-<p style="font-size:small">(avance: no hace falta operarse)</P>
+<p style="font-size:50%">(avance: no hace falta operarse)</P>
 ---
-Modelos de Sexo
+Laqueur identifica dos modelos de sexo
 
 * Modelo de un sexo (hegemónica antes del s. XVIII):
 masculino y femenino son versiones con igual
@@ -307,14 +349,16 @@ en términos de más o menos igual sino de
 diferencia (Laqueur 1990, 207).
 ---
 ![alt_text](/media/02/P/Laqueur/Invention_Hereosexuality.jpg)
+
 ---
 ![alt_text](/media/02/P/Laqueur/Invention_Hereosexuality.jpg)
 
 * S. XIX homo y hetero se constituyeron como desviaciones de
 la norma reproductiva.
 * S. XX Heterosexualidad como "norma". 
-De las prácticas (sodomía) al sujeto (homo/hetero/sexual). 
-La definición de "normalidad" disciplina a homo y hetero. 
+
+Se pasa de la práctica (sodomía) al sujeto (homo/hetero/sexual), diferenciando entre sujeto "normal" y "desviado".
+
 **La heterosexualidad es un fenómeno reciente, una
 invención moderna**.
 ---
@@ -331,7 +375,7 @@ una especie**.
 
 (Foucault, Historia de la Sexualidad, 1976:56-57)
 ---
-El <span foreground="green">sexo como producción biopolítica
+El sexo como producción biopolítica
 
 * Antes del siglo XVIII: científicamente, sólo existe un tipo de cuerpo humano.
 * Los dibujos médicos representan igual a órganos sexuales masculinos y femeninos ⇒ dibujos
@@ -339,52 +383,68 @@ correctos, concepción del sexo distinta a la actual.
 * A partir del s. XIX, se solidifican las fronteras biológicas entre hombre y mujer
 ---
 ![alt_text](/media/02/P/Laqueur/Harnaam_Kaur.png)
+
 ---
 ![alt_text](/media/02/P/Laqueur/Harnaam_Kaur.png)
 * La diferenciación entre masculino/femenino es el resultado de una acción biopolítica.
----
-<video controls><source src="/media/02/V/Beatriz_Preciado.mp4" type="video/mp4"></video>
-<!-- #  }}} -->
-<!-- #  Posiciones de sujeto {{{ -->
----
-# Posiciones de Sujeto
----
-Corporeidad como campo de batalla cultural
 
-* Corporeidad como producción Semiótico - Material
+<!-- #  }}} -->
+<!-- # 4. Producción cultural corporeidad {{{ -->
+---
+# 4. Producción cultural corporeidad
+---
+Nuestro cuerpo se produce culturalmente
+
+* Diferencia entre "carne" (biología) y "cuerpo" (cultura).
+* El cuerpo incluye biología y significado.
 * Cuerpo como metáfora y expresión de la cultura (Susan Bordo)
-* Corporeidad producida tenológicamente (depilación, dietas,...)
-* Tecnologías inscripción corporal (medicina, psicología)
-* Los procesos macro-sociales inscritos corporalmente
-(i.e., estructura familiar, sociedad de consumo,...)
+* Usamos técnicas (afeitado, gimnasia, depilación,...) para producir "cuerpos".
 
 __¿Quién tiene el poder para gestionar las tecnologías corporales?__
 ---
-![alt_text](/media/02/P/Corporeidad/Cuerpos_Antes_1917.png) 
-1917
----
-![alt_text](/media/02/P/Corporeidad/Cuerpos_Ahora.png) 
-Actualidad
----
-Corporeidad como campo de lucha biopolítico
-(diferencia entre "cuerpo" y "carne")
+<video controls><source src="/media/02/V/Body_Type_Throughout_History.webm" type="video/webm"></video>
 
-* Exigencia biopolítica de ciertas formaciones corporales.
-* Inscripción corporal de la cultura: deseos, formas de ser, 
-cuidados del cuerpo (i.e. monogamia - poliamor)
-* Tensión entre corporeidad normativa y contra-normativos.
-* La "dureza" de la agencia corporal limita la maleabilidad
-tecnológica (i.e.: cambios generacionales).
+---
+![alt_text](/media/02/P/Corporeidad/Body_Building_couple.jpg)
+
+---
+![alt_text](/media/02/P/Corporeidad/Body_Building_women.jpg)
+
+---
+Corporeidad como campo de tensión biopolítico
+
+* Normas culturales para tener determinados cuerpos.
+* Inscripción corporal de normas culturales: deseos, formas de ser, 
+cuidados del cuerpo (i.e. monogamia - poliamor).
+* Limitaciones a la maleabilidad corporal (i.e.: cambios generacionales).
 ---
 ![alt_text](/media/02/P/Corporeidad/Transbutch.png)
-Tesis Doctoral
-<p style="font-size:small">(Actualmente, la operación genital la realizan habitualmente las mujeres trans)</p>
+Tesis Doctoral "Ana Marchante"
+
 ---
 ![alt_text](/media/02/P/Slogans/Your_body_is_a_battleground.jpg)  
 Corporeidad como
 Campo de batalla
 Biopolítico
 Barbara Kruger
+---
+## La sociedad considera:
+
+* Las identidades sexuales son fijas y esenciales.
+* Hay un binarismo (masculino o femenino).
+* Hay una clara distinción entre sexualidad "normal y anormal", "funcional y disfuncional"
+
+## Encontramos que:
+
+* Las identidades sexuales son Fluidas y cambiantes (Alfred Kinsey)
+* Múltiples y contradictorias (masculino y femenino, andrógeno,...) (David Bowie) 
+* ¿Qué criterios usamos para distinguir la sexualidad "normal" de la "anormal"? (BDSM)
+---
+![alt_text](/media/02/P/Corporeidad/Alfred_Kinsey.jpg)
+
+---
+![alt_text](/media/02/P/Corporeidad/Alfred_Kinsey_3.jpg)
+
 ---
 * La desviación (TDAH, homosexual,
 mujer...) implica una norma.
@@ -397,96 +457,123 @@ resistencia (feminista, lesbiana,
 gay, musulmana,...).
 
 ## La norma constituye la resistencia
----
-![alt_text](/media/02/P/Posiciones/Velo_Islámico.png) 
+
 ---
 ![alt_text](/media/02/P/Gent/Adrienne_Rich.jpg) 
+
 ---
 ![alt_text](/media/02/P/Gent/Adrienne_Rich.jpg) 
 <!-- #   Rich, A. (1980). Compulsory Hetero-sexuality and Lesbian -->
 <!-- #   Existence. Signs 5(4), 631-660. -->
-1980. La existencia lesbiana comprende tanto la ruptura de
-un tabú como el rechazo de un modo de vida obligatorio.
-También es un ataque directo e indirecto al derecho
-masculino de acceso a las mujeres. Adrienne Rich
+
+* Definición patriarcal de la mujer.
+* Heterosexualidad obligatoria.
+* Mujer definida a partir del deseo masculino
+
 ---
 ## Acción ante las normas dominantes
 
-a) Afirmación identitaria (Grupos GLTB+)
+a) Afirmación identitaria (Feminismo, Grupos LGBT+)
 
 b) Cuestionamiento dicotomías (queer /
 transfeminista)
+
 1. Crítica al binarismo sexo-género
 1. Desnaturalizar la sexualidad
 1. Multiplicidad de identidades sexuales
 <!-- #  }}} -->
-<!-- #  Queer {{{ -->
+<!-- # 5. Queer {{{ -->
 ---
-# Teoría Queer
+# 5. Teoría Queer
 # TransMarikaBollo / Desgenerada
 ---
 ![alt_text](/media/02/P/Grups/Brot_Bord.png) 
-<span background='black'><i> Queer </i>
+<i> Queer </i>
+
 ---
 ![alt_text](/media/02/P/Grups/Degenerem-nos.png) 
-<span background='black'><i> Degenerem-nos </i>
+<i> Degenerem-nos </i>
+
 ---
 <video controls><source src="/media/02/V/TeoríaQueer_BeatrizPreciado.mp4" type="video/mp4"></video>
----
 
-* 1990: Teresa de Laurentis usa el término "queer theory" en
+---
+## 5.1. Emergencia teoría queer 90's
+
+* "Queer": término peyorativo para nombrar personas LGTBI.
+* Finales 80: uso reivindicativo para una identidad positiva (apropiación del insulto).
++ 1990: Teresa de Laurentis usa el término "queer theory" en
 conferencia.
 * 90s: queer: estudio interdisciplinar de la constitución
-sexuales hegemónicas, contra-hegemónicas, y su represión,
-desestabilizando el sistema de regulación de sexo/género.
-Crítica irónica a partir de apropiación del insulto
-(maribollo, desgenerado,...)
+de sexualidades hegemónicas y contra-hegemónicas. 
 * Cuestionamiento de nuestras categorías identitarias.
-* Reconocimiento del carácter <span foreground="yellow">performativo de las
+* Reconocimiento del carácter performativo de las
 identidades sexuales.
+
+---
+Política del antagonismo (♀/♂, homo/hetero):
+
+* Reifica y homogeneíza categorías, reproduciendo o trasponiendo jerarquías.
+
+Polítia queer:
+
+* Muestra fluidez e interrelación de categorías.
+* Presta atención a las posiciones fronterizas.
+* Perspectiva interseccional (pertenencia categorial múltiple).
+* Producción cotidiana de "pequeños actos revolucionarios". 
+
+---
+
+* Resistencia a la categorización
+* Crítica a la identidad esencial
+* Cuestionamiento binarismo sexo/género
+* Importancia del contexto social e histórico
+* Evidencia de las relaciones de poder
+
+**Revisar nuestras concepciones de sexo/género**
+
+---
+![alt_text](/media/02/P/Queer/Fiesta_Queer.jpg)
+
+---
+![alt_text](/media/02/P/Queer/Queer.jpg)
+
 ---
 <video controls><source src="/media/02/V/Entrevista_Miquel_Missé.mp4" type="video/mp4"></video>
----
-![alt_text](/media/02/P/Queer/Espejo.jpg)
----
-![alt_text](/media/02/P/Queer/Espejo.jpg)
-* Lacan: al nombrar entramos en el mundo de lo simbólico.
-* estadio del espejo: constitución del yo
-* Foucault: El poder nos "su/jeta", no hace sujeto 
-* El poder es productivo. Construye sujetos y subjetividades 
-* Biopoder: poder sobre nuestra vida y subjetividad.
-* Estrategias biopolíticas de poder y de resistencia.
----
-* Identidad sexual fluida e inestable => cómo se
-constituyen y cambian las identidades sexuales 
-* La naturalización división hetero-homo como 
-__"ficción reguladora"__ que
-refuerza la norma heterosexual.
 
-> "si la sexualidad es construida culturalmente
-dentro de las relaciones existentes de poder,
-postular una sexualidad normativa 'anterior',
-'fuera' o 'más allá' del poder es una
-imposibilidad cultural y un sueño político
-impracticable".
 ---
-* Actos performativos realizan lo que nombran ('os declaro
+![alt_text](/media/02/P/Queer/Espejo.jpg)
+
+---
+![alt_text](/media/02/P/Queer/Espejo.jpg)
+## 5.2. Nacemos en el orden simbólico
+
+* Lacan: al nombrar entramos en el mundo de lo simbólico.
+* Estadio del espejo: constitución del yo
+* Foucault: El poder nos "su/jeta", no hace sujeto 
+* El poder es productivo, construyendo sujetos y subjetividades.
+* Biopoder: poder sobre la vida, los cuerpos y subjetividades.
+* Frente al biopoder se desarrollan estrategias biopolíticas de resistencia.
+
+---
+## 5.3. Actos Performativos
+
+* Actos lingüísticos que realizan lo que nombran ('os declaro
 marido y mujer', Austin)
-* Llamada que "activa la sujeción" (Althusser)
-* Nuestra subjetividad se constituye actuándola
-* La diferencia "hombre/mujer" que describe nuestra actuación,
-pero la usamos como explicación.  Naturalizan la norma en su
-repetición. 
-* Performatividad de género: género como actuación ritualizada
+* Activan la sujeción (Althusser)
+* Al actuar y repetir actos se constituye y naturaliza la subjetividad. 
+* La diferencia "hombre/mujer" que **describe** nuestra actuación,
+pero la usamos como **explicación causal** ("fantasma en la máquina")
+* **Performatividad de género**: género como actuación ritualizada
 que produce la ficción de un género esencial y estable.
-* Identidad de género: consolidación de normas reiteradas que
-generan normalidad y transgresión.
----
-![alt_text](/media/02/P/Queer/gobernabilidad-performatividad.jpg)
+* Identidad de género: conformación de la subjetividad a partir de la reiteración performativa de actos.
+* Los actos performativos producen "normalidad" y "trasgresión".
+
 ---
 ![alt_text](/media/02/P/Queer/Cita_Butler.jpg)
+
 ---
-## Performance y performatividad
+## 5.4. Performance y performatividad
 
 * La performance (metáfora teatral) presupone un sujeto.
 Implica una ruptura de la gramática cultural, incide en el
@@ -496,33 +583,29 @@ actuación.
 * La performatividad constituye una forma de discurso que
 tiene la capacidad de producir aquello que nombra. Necesita
 de la repetición.
-<p style="font-size:small">Judith Butler <i>Gender as Performance</i>, in A Critical Sense: Interviews with Intellectuals, ed Peter Osborne, 111-112.</p>
----
+<p style="font-size:50%">Judith Butler <i>Gender as Performance</i>, in A Critical Sense: Interviews with Intellectuals, ed Peter Osborne, 111-112.</p>
 
-* La política del antagonismo (mujer/hombre, homo/hetero)
-reifican y homogeneízan categorías de poder, manteniendo o
-trasponiendo las jerarquías.
-* Dificulta la visibilización de los aspectos micropolíticos e
-interseccionales (identidad, sexualidad, etnicidad,
-colonialidad).
-* La política queer busca una acción interseccional y
-semiótico-material a través de "pequeños actos
-revolucionarios" para crear y consolidar nuevas formas de
-vida. 
 ---
-![alt_text](/media/02/P/Queer/Fiesta_Queer.jpg)
----
-![alt_text](/media/02/P/Queer/Queer.jpg)
----
-Algunas críticas a la Teoría Queer
+![alt_text](/media/02/P/Queer/PostPorno.png)
 
-* Ruptura de categorías favorecido por condiciones
-materiales `favorables'.
-* Dificultad en producir conocimiento emancipatorio útil. La
-disolución de categorías sirve como estrategia
+---
+![alt_text](/media/02/P/Queer/PostPorno.png)
+
+> "si la sexualidad es construida culturalmente
+dentro de las relaciones existentes de poder,
+postular una sexualidad normativa 'anterior',
+'fuera' o 'más allá' del poder es una
+imposibilidad cultural y un sueño político
+impracticable".
+
+---
+## 5.5. Críticas Teoría Queer
+
+* Sólo ciertas posiciones pueden aspirar a la "ruptura de categorías".
+* La crítica a las categorías dominantes sirve como estrategia
 desestabilizadora pero no constructora de alternativas.
-* Peligro de estrategias individualista, coherente con la
-sociedad de consumo.
+* Falta de una propuesta emancipatoria viable.
+* El énfasis en la performatividad lleva a estrategias individualistas.
 ---
 ## Gràcies!
 <!-- #  }}} -->

@@ -1,21 +1,46 @@
 <!--- A incloure {{{
 Privilegis, Omela, Ursula-Le_Guin
- }}} -->
+
+
+}}} -->
 
 # Cultura y Diversidad
 
-<!-- Colonialismo {{{ -->
+<!-- # 1. Colonialismo {{{ -->
+---
+# 1. Colonialismo
 
 ---
-<video controls><source src="/media/04/V/Son_los_norteamericanos_estúpidos.flv" type="video/mp4"></video>
+<video controls><source src="/media/04/V/Estupidez_estadounidenses.webm" type="video/webm"></video>
+
+---
+## ¿Son los **americanos** estúpidos?
+
+---
+## ¿Son los **europeos** estúpidos?
+
+* ¿Cuál es el Presidente de EEUU?
+* ¿Cuál es el Presidente de la Comisión Europea?
+* ¿Cuál es el Presidente del Consejo Europeo?
+* ¿Cuál es el Presidente de la República Portuguesa?
+* ¿Cuál es el Jefe del Gobierno de Marruecos?
+* ¿Entre que países está Liechtenstein?
+
+---
+## ¿Son los **europeos** estúpidos?
+
+* ¿Cuál es el Presidente de EEUU? **Donald Trump**
+* ¿Cuál es el Presidente de la Comisión Europea? **Jean-Claude Juncker**
+* ¿Cuál es el Presidente del Consejo Europeo? **Donald Tusk**
+* ¿Cuál es el Presidente de la República Portuguesa? **Marcelo Rebelo de Sousa**
+* ¿Cuál es el Jefe del Gobierno de Marruecos? **Abdelilah Benkirane**
+* ¿Dónde está Liechtenstein? **Entre Suiza y Austria**
 
 ---
 ##Qué idioma podemos hablar en:
 
 * Guinea Ecuatorial
-
 * Filipinas
-
 * Sahara Occidental 
    (República Árabe Saharaui Democrática)
 
@@ -26,72 +51,26 @@ Privilegis, Omela, Ursula-Le_Guin
 ![alt_text](/media/04/P/Colonialismo/Idioma_Espanyol_1.png)
 
 ---
-![alt_text](/media/04/P/Colonialismo/Idioma_Frances.png)
-
----
-![alt_text](/media/04/P/Colonialismo/Idioma_Anglés.png)
-
----
-![alt_text](/media/04/P/Colonialismo/Idioma_Portugués.png)
-
----
-# Colonialismo
-
----
 * Imperialismo: sistema de **dominación y subordinación** 
    donde un centro (metrópolis) organiza a una periferia dominada
    (**FUERZA**).
 
 * Colonialismo: relación de dominio en que se impone 
    **la cultura y las formas de hacer** 
-   de un sistema cultural  a otro (**VERDAD**).
+   de un sistema cultural a otro (**VERDAD**).
 
 * Ideología colonial: disfrazar la dominación 
    como “misión” evangelizadora y civilizadora 
    sobre otras culturas. **(JERARQUÍA)**.
 
 ---
-**Jules Ferry (Francia)
-Cámara de Diputados, 28 de julio de 1885**
-
-> «Se puede relacionar el sistema de expansión colonial con tres tipos de ideas:
-ideas económicas, ideas de civilización ( ... ) e ideas de orden político y
-patriótico.
-
-> Lo que le falta a nuestra industria ( ... ), lo que más le falta son mercados.
-La ley de la oferta y la demanda, la libertad de intercambios, la influencia de
-la especulación, todo eso alcanza un radio que se extiende hasta la otra punta
-del mundo ( ... ). Es preciso buscar mercados.
-
-> Sin embargo hay un segundo punto: se trata de la vertiente humanitaria y
-humanizadora ( ... ); las razas superiores tienen un deber hacia las razas
-inferiores; tienen el deber de civilizar a las razas inferiores ( ... ).
-
-> Por último: no hay compensaciones por los desastres que hemos sufrido (la
-pérdida de Alsacia y Lorena) ( ... ) y yo afirmo que la política colonial de
-Francia, que nos ha llevado -bajo el imperio- a Saigon ya la Cochinchina, que
-nos ha llevado a Túnez, que nos ha hecho llegar a Madagascar, afirmo que esta
-política de expansión imperial está inspirada en una verdad: una marina como la
-nuestra no puede prescindir de puertos sólidos, de defensas, de centros de
-aprovisionamiento.
-
+![alt_text](/media/04/P/Colonialismo/Conquista_America.jpg)
 
 ---
-**Cecil <u>Rhodes</u>, 1895 (Regne Unit)**
+![alt_text](/media/04/P/Colonialismo/Conquista_America.jpg)
+Con perfecto derecho los españoles ejercen su dominio sobre estos bárbaros del Nuevo Mundo e islas adyacentes, los cuales en prudencia, ingenio y todo género de virtudes y humanos sentimientos son tan inferiores a los españoles como los niños a los adultos, las mujeres a los varones, como gentes crueles e inhumanos a muy mansos, exageradamente intemperantes a continentes y moderados, finalmente, estoy por decir cuanto los monos a los hombres.
 
-> «Ayer fui al East End de Londres y asistí a una
-asamblea de parados. En la reunión escuché
-discursos exaltados que no hacían sino pedir pan,
-pan y pan (…) La idea que tengo representa la
-solución al problema social, es decir, para salvar
-a cuarenta millones de británicos de la guerra
-social, nosotros los políticos coloniales, tenemos
-que hacer nuestros nuevos territorios donde
-colocar el exceso de población y donde vender los
-productos de nuestra fábricas y de nuestras minas.
-El imperio, lo he dicho siempre, es una cuestión
-de estómago …»
-
+Sacerdote Católico Español Juan Ginés de Sepúlveda, 1941
 ---
 ![alt_text](/media/04/P/Colonialismo/Protectorado_Marruecos.png)
 
@@ -107,12 +86,21 @@ marroquí para la introducción de todas
 las reformas administrativas,
 económicas, financieras, judiciales y
 militares de que necesita”
+---
+<video controls><source src="/media/04/V/El_Intermedio_Inmigració.webm" type="video/webm"></video>
 
 ---
+## Motivación de Logro
+
+* ¿Cómo es que cierta sociedades tienen un nivel más alto de organización social y tecnológica? 
+* La modernización no puede ocurrir en sociedades que no valúan la innovación, el éxito y la libre empresa. McClelland, 1968
+
 * Las diferencias de **"desarrollo"** son
 debidas a la “división internacional del
 trabajo” (materias primas / productos
 industrializados).
+
+<hr>
 
 * Los países desarrollados **"ayudan"** al
 desarrollo de los países
@@ -122,25 +110,51 @@ desarrollo de los países
 materias primas ⇒ industria ⇒ “sociedad
 del conocimiento”.
 
-<!-- }}} -->
+---
+## Eysenk, H.J. (1971): Raza, inteligencia y educación.
 
-<!-- Nacer en la cultura del otro {{{ -->
+> <i>toda la evidencia de que se dispone a día de hoy 
+apunta al ...  decisivo papel que juega el factor 
+genético para producir la enorme variedad de diferencias 
+intelectuales que observamos en nuestra cultura, y muchas 
+de las diferencias que se observan entre ciertos grupos raciales</i>
+
+* Hay diferencias en el CI entre personas blancas y negras
+* Estas diferencias tienen base biológica
+
+---
+<p style="font-size:50%">Fairbanks, D. J. (2015). Everyone Is African: How Science Explodes the Myth of Race. Amherst, New York: Prometheus Books.</p>
+
+* Análisis genéticos y antropológicos muestran que los humanos modernos se desarrollan en África sub-Sahariana.
+* La heterogeidad genètica no puede ser expresada en términos "raciales". 
+
+Marín Gonzáles, José (2003). Las “razas” biogenéticamente, no existen, pero el racismo sí, como ideología. 
+
+<!-- # }}} -->
+
+<!-- # 2. Post-Colonialismo {{{-->
+---
+# 2. Post-Colonialismo
+
+---
+Poscolonialismo: análisis del legado del colonialismo e imperialismo después de la transformación del orden colonial que se inicia en 1947 (independencia de la India). Explora la transformación de las formas de poder y subjetivación dentro del nuevo orden geopolítico.
+
+<!-- # 2.1. Nacer en la cultura del otro {{{ -->
 
 ---
 ![alt_text](/media/04/P/Racismo/El_Negro_de_Banyoles.png)
+
 ---
 ![alt_text](/media/04/P/Racismo/El_Negro_de_Banyoles.png)
 
 ¿Y si eres la persona negra mirando al negro de Banyolas?
 
-# La experiencia de '**otredad**'
+La experiencia de '**otredad**'
 
 ---
-# (1) Frantz Fanon:
+## 2.1. Nacer en la cultura del otro
 
-* Nacer en la cultura del otro
-
-*  Anti-Colonialismo
+Frantz Fanon: Anti-Colonialismo
 
 ---
 Martinique 1925 – 1961
@@ -166,14 +180,12 @@ persona.
 ![alt_text](/media/04/P/Persones/Piel_Negra_Máscaras_Blancas.png)
 **El colonialismo jerarquiza a grupos sociales.**
 
-Impone una identidad falsa y auto-degradante, un
+* Impone una identidad falsa y auto-degradante, un
 complejo de dependencia de los colonizados (-) 
 respecto los colonizadores (+)
-
-Los estratos sociales más altos imitan y se 
+* Los estratos sociales más altos imitan y se 
 apropian del código cultural del colonizador.
-
-Necesidad de una revuelta emancipadora que elimine 
+* Necesidad de una revuelta emancipadora que elimine 
 la conciencia colonial y conduzca a una acción 
 transformadora.
 
@@ -190,110 +202,76 @@ transformadora.
 ![alt_text](/media/04/P/Piel_Blanca/Piel_Blanca_3.png)
 
 ---
-<video controls><source src="/media/04/V/Racismo_a_vista_de_niños.mp4" type="video/mp4"></video>
+<video controls><source src="/media/04/V/Racismo_a_vista_de_niños.webm" type="video/webm"></video>
 
 ---
 **Lucha por la emancipación**
 
 * Influencia de Fanon, movimientos negros EEUU,
 “Black Panthers”
-
-* Hay una colonización "económica" y "cultural.
-
+* Denuncia de la colonización "económica" y "cultural.
 * Necesidad de acciones revolucionarias.
-
 * Crítica al humanismo colonial: “por el bien de
 los demás pensando en el provecho propio”.
 
-<!-- }}} -->
+<!-- # }}} -->
 
-<!-- Orientalismo {{{ -->
-
----
-<big>2. Ser construido por el otro</big>
-
-## Edward Said, Orientalismo
-## (Palestino, profesor EEUU)
+<!-- # 2.2. Ser construido por otro {{{ -->
 
 ---
-<video controls><source src="/media/04/V/On_Orientalism-Edward_Said.mp4" type="video/mp4"></video>
+## 2.2. Ser construido por otro
+
+Edward Said, Orientalismo
+(Palestino, profesor EEUU)
+
+¿Cómo ejercemos "poder" en un mundo poscolonial?
 
 ---
-# El conocimiento es “político” 
-
-## (poder/saber) 
-
-Formas de Análisis:
-
-* Localización estratégica (política) ante un fenómeno.
-
-* Realidad que se construye desde esa posición.
-
-* Análisis de posiciones fronterizas.
+<video controls><source src="/media/04/V/On_Orientalism-Edward_Said.webm" type="video/webm"></video>
 
 ---
-> Oriente no es sólo el vecino inmediato de Europa, es también la
-región en la que Europa ha creado sus colonias más grandes,
-ricas y antiguas, es la fuente de sus civilizaciones y sus
-lenguas, su contrincante cultural y una de sus imágenes más
-profundas y repetidas de Lo Otro. Además, **Oriente ha servido
+## Construcción de un "otro" salvaje y exótico. 
+
+Oriente ha servido
 para que Europa (u Occidente) se defina en contraposición a su
-imagen, su idea, su personalidad y su experienciai**. Sin embargo,
-nada de este Oriente es puramente imaginario. Oriente es una
-parte integrante de la civilización y de la cultura material
-europea. El orientalismo expresa y representa, desde un punto
-de vista cultural e incluso ideológico, esa parte como un modo
+imagen, su idea, su personalidad y su experiencia...  El **orientalismo** expresa y representa, desde un punto
+de vista cultural e incluso **ideológico**, esa parte como un modo
 de discurso que se apoya en unas instituciones, un vocabulario,
 unas enseñanzas, unas imágenes, unas doctrinas e incluso unas
 burocracias y estilos coloniales.
 
 ---
-**(Dominación directa / indirecta)**
+## Formas de gestión población:
 
-> Gramsci ha efectuado una útil distinción analítica entre
-sociedad civil y sociedad política según la cual la primera
-está formada por afiliaciones voluntarias (o, al menos,
-racionales y no coercitivas), como son las escuelas, las
-familias y los sindicatos, y la segunda, por instituciones
-estatales (el ejército, la policía y la burocracia central)
-cuya función dentro del Estado es la dominación directa. La
-cultura, por supuesto, funciona en el marco de la sociedad
-civil, donde la influencia de las ideas, las instituciones y
-las personas se ejerce, no a través de la dominación, sino a
-través de lo que Gramsci llama consenso.
+Directa (fuerza, represivo): Legalidad. Instituciones estatales (ejercito, policía, burocracia), coerción. (poder soberano)
+
+Indirecta (hegemonía, productivo): Legitimidad. Sociedad civil, cultura, convencimiento. (poder disciplinario, deseo, seguridad). 
 
 ---
-> En segundo lugar, creer que la política, en forma
-de imperialismo, tiene un efecto en la producción
-literaria, en la erudición, en las teorías
-sociales y en la escritura de la historia no
-equivale, en modo alguno, a afirmar que, por
-tanto, la cultura es algo degradado o denigrado;
-muy al contrario, **toda mi tesis consiste en que
-podremos comprender mejor la persistencia y la
-durabilidad de los sistemas hegemónicos, como es
-la propia cultura, cuando reconozcamos que las
-coacciones internas que éstos imponen en los
-escritores y pensadores son productivas y no
-unilateralmente inhibidoras.**
+## Orientalismo: 
 
----
-Orientalismo: forma de dominación sobre “oriente”
+* Forma de dominación sobre “oriente”
 basado en un discurso (“verdad”) que subjetiva a
 la población y legitima la dominación. 
 
 (Sabemos sobre 'oriente' sin tener contacto con
-'oriente'. Se familiariza lo superficial mientras
-que se extraña lo vital). 
+'oriente'. Conocemos lo "irrelevante", desconocemos lo "vital").
 
-Formas de dominio cultural a través del “consentimiento”
-(Gramsci → hegemonia)
-
-Necesidad de reconocer el carácter "productivo" de las
-formas de dominación. 
+Formas de dominio cultural a través del “consentimiento” (hegemonía).
 
 ---
-<!-- Subtítols malament. Arreglar subtítols o buscar un exemple millor -->
+Posición crítica. Debemos preguntarnos:
+
+* ¿Desde qué posición se está hablando?
+
+* ¿Qué realidad se está construyendo?
+
+* ¿A quién beneficia y a quién perjudica?
+
+* ¿Dónde están las posiciones fronterizas?
+
+---
+<!-- # Subtítols malament. Arreglar subtítols o buscar un exemple millor -->
 <video controls>
 	<source src="/media/04/V/La_raza.webm" type="video/webm">
 </video>
@@ -302,59 +280,25 @@ formas de dominación.
 ![alt_text](/media/04/P/Racismo/David_Duke.png)
 
 ---
-![alt_text](/media/04/P/Racismo/David_Duke.png)
-* Mostrar al "otro" como extraño
+## Resistir la xenofobia
 
-* Nuestras formas de conocer están tamizadas por el contexto
-socio-histórico.
+* Relación entre "conocimiento" y "estereotipos sociales"
+* Las relaciones de poder construyen a quienes estan en "la norma" y "fuera de la noma"
+* Postura crítica hacia el "conocimiento de sentido común"
 
-* Las tecnologías de poder construye quienes somos y cómo nos
-pensamos y cómo pensamos a las demás personas.
+<hr>
 
-* Las disciplinas científicas participan de este proceso de
-legitimación
+Propuesta: buscar formas de conexión e interacción, creación de nuevas subjetividades. Ejemplo: "vecinos"
 
-* Conexión e interacción con el "otro" (intersubjetividad) como
-forma de conocimiento.
+<!-- # }}} -->
 
-<!-- }}} -->
-
-<!-- Habitar en la Frontera {{{ -->
-
+<!-- # 2.3. Habitar en la Frontera {{{ -->
 ---
-![alt_text](/media/04/P/Persones/Spivak.png)
-
----
-![alt_text](/media/04/P/Persones/Spivak.png)
-
-<big>3.- Habitar en la Frontera</big>
-
-# Gayatri Spivak
-
----
-![alt_text](/media/04/P/Gitanos/Palabra-gitano.jpg)
-
----
-![alt_text](/media/04/P/Gitanos/Palabra-gitano.jpg)
-
-¿Cómo hacemos para convivir con el "otro"?
-
-* Responsabilidad: dejar espacio discursivo para la existencia del Otro.
-
-* Singularidad ética: pensar al otro en términos de singularidad en lugar de
-categoría esencial.
-
-* Esencialismo estratégico: habitar una posición para actuar y entender su
-funcionamiento (en lugar de "ser" esa categoría").
-
-* Subalternidad: dejar espacio a las posiciones subalternas para que puedan
-representarse/hablar por sí mismas
-
-* Desaprender Privilegios: el privilegio nos aisla del conocimiento de las
-posiciones oprimidas. Aprender a ocupar la posición del otro. 
+![alt_text](/media/04/P/Hibridez/Xarnego.png)
 
 ---
 ![alt_text](/media/04/P/Hibridez/Xarnego.png)
+## 2.3. Habitar en la Frontera
 
 ---
 ![alt_text](/media/04/P/Hibridez/Xarnego.png)
@@ -376,12 +320,38 @@ encontrarnos para hablar
 ---
 ![alt_text](/media/04/P/Hibridez/Bollywood.png)
 
-<!-- }}} -->
+---
 
-<!-- Decolonizar el conocimiento {{{ -->
+## Convivir en espacios híbridos
+
+* **Responsabilidad**: reconocer la existencia de múltiples posiciones
+* **Singularidad**: pensar cada posición en términos de singularidad
+* **Anti-Esencialismo**: ocupamos categorías sociales, pero no **SOMOS** categorías sociales.
+* **Anti-Representacionismo**: cada posición debe representarse/hablar por sí mismas.
+* **Reconocer privilegios**: reconocer la desigual distribución de derechos y privilegios
+* **Incorporar al otro**: Aprender a ocupar la posición del otro.
+* **Hibridez**: buscar posiciones híbridas.
+---
+![alt_text](/media/04/P/Hibridez/Sijs.png)
 
 ---
-**Decolonizar el Conocimiento**
+![alt_text](/media/04/P/Hibridez/Sijs.png)
+
+¿Qué hacemos en las escuelas?
+
+---
+![alt_text](/media/04/P/Hibridez/Sij_escola.png)
+
+<!-- # }}} -->
+
+<!-- # }}} -->
+
+<!-- # 3. Decolonizar el conocimiento {{{ -->
+
+---
+# 3. Decolonizar el Conocimiento
+
+---
 
 Análisis de la 
 “colonialidad del saber” 
@@ -389,7 +359,7 @@ para construir
 “formas de hablar”
 con las voces subalternas.
 
-<p style="text-size:small">Castro-Gómez, S. y Grosfoguel, R. (2007). <i>El giro decolonial: reflexiones para
+<p style="font-size:50%">Castro-Gómez, S. y Grosfoguel, R. (2007). <i>El giro decolonial: reflexiones para
 una diversidad epistémica más allá del capitalismo global</i>. Siglo del Hombre Editores.</p>
 
 ---
@@ -404,18 +374,19 @@ Vida: ¿arborescente o rizomática?
 ¿Cómo nos aproximamos a la “realidad”?
 
 * Disciplinar (cultural): Una disciplina mira al objeto.
-
 * Multidisciplinar (multicultural): Mútiples miradas miradas al
 mismo objeto.
-
 * Interdisciplinar (intercultural): Múltiples miradas que se
 comunican entre sí.
-
 * Transdisciplinar (transcultural): Énfasis en el objeto en lugar
 de la mirada.
 
 ---
-# Colonialidad del Conocimiento
+![alt_image](/media/04/P/Decolonizar_Pensamiento/Elfante_Disciplinariedad.jpg)
+
+
+---
+## Colonialidad del Conocimiento
 
 * Apropiación, clasificación, institucionalización y
 comercialización de los conocimientos tradicionales en
@@ -430,39 +401,99 @@ modernidad/tradición
 * Universalidad frente a localización
 
 ---
+
 # De-colonizar la Universidad
 
 * Transdisciplinariedad (↔ interdisciplinariedad)
 
-* Complejidad (↔ leyes universales)
+* Complejidad (↔ soluciones simples )
 
 * Organización rizomática y transcultural (diálogo de saberes) 
 (↔ Disciplinar)
 
 * Reconocer la posición desde la que se produce conocimiento 
-(↔ “truco del ojo divino”)
+(↔ leyes universales)
 
 * Apostar por la contaminación y el acercamiento: estamos
 involucradas con lo que observamos
 
-<!-- }}} -->
+<!-- #}}} -->
 
-<!-- Feminismes Perifèrics {{{ -->
+<!-- # 4. Interseccionalidad {{{ -->
+---
+# 4. Interseccionalidad
 
 ---
-# Feminismos Periféricos
+![alt_text](/media/04/P/Interseccionalitat/Ajuntament.png)
+
+---
+![alt_text](/media/04/P/Interseccionalitat/Ajuntament.png)
+
+Problema al usar las "categorías sociales" en la "intervención psicosocial"
+
+---
+![alt_text](/media/04/P/Interseccionalitat/Sojourner-Truth.png)
+
+---
+![alt_text](/media/04/P/Interseccionalitat/Sojourner-Truth.png)
+Sojourner Truth, 1719-1883
+
+Discurso: "Ain't I a woman?"
+(¿No soy yo una mujer?)
+
+En la *Convención de los derechos de la mujer de Ohio*, EEUU, 1851.
+
+---
+<video controls><source src="/media/04/V/Sojourner_Truth_discurso_Acaso_no_soy_mujer.webm" type="video/mp4"></video>
+
+---
+## Políticas de Identidad
+
+* Afirman la propia posición
+* Homogeneizan la categoría
+* Confunden o ignoran las diferencias
+
+---
+## Interseccionalidad
+
+* Pertenecemos a múltiples categorías
+* Cata categoría es heterogénea
+* Reconocer las diferencias
+
+*La interseccionalidad busca entender las formas en las que la ubicación de las mujeres de color en la intersección de la raza y del género hace que sus experiencias sean cualitativamente diferentes a las de las mujeres blancas.* Kimberlé Crenshaw,  (1989)
+
+---
+![alt_text](/media/04/P/Interseccionalitat/audre-lorde.png)
+
+---
+“El análisis concurrente de múltiples fuentes intersectadas de subordinación/opresión, y están basados en la premisa de que el impacto de una fuente de subordinación específica puede variar, dependiendo de su combinación con otras fuentes potenciales de subordinación” (Denis, 2008. pp 678).
+
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6dnj2IyYjE" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Implicaciones para la intervención psicosocial
+
+* Agencia: tener en cuenta la posición y la visión de mundo de cada posición y colectivo
+* Participación: involucrar a usuarias y colectivos en los procesos de intervención
+* Responsabilidad: participamos en la construcción de deferencias y categorías
+
+<!-- # }}} -->
+
+<!-- # 5. Feminismes Perifèrics {{{ -->
+
+---
+# 5. Feminismos Periféricos
 
 ---
 ## Feminismo hegemónico:
 
 * Constitución de dos categorías exclusivas,
 delimitadas y homogéneas.
-
 * Centrado en reformas legales que "iguala" la mujer
 al hombre (feminismo liberal)
-
 * Ocupa el lugar masculino sin transformarlo.
-
 * Se toma como modelo el feminismo blanco de clase media
 
 ---
@@ -475,52 +506,37 @@ al hombre (feminismo liberal)
 Feminismos periféricos
 
 * Multiplicidad de formas de ser “mujer”
-
 * Heterogeneidad categoría "mujer".
-
 * “Mujeres del tercer-mundo”
-
 * Feminismo post-colonial: reconocimiento
 múltiples diferencias. 
-
 * Feminismo postmoderno: crítica diferencias
 esenciales
 
 ---
 Implicaciones
 
-* Sospecha ante la superioridad de la “mujer europea” (i.e.,
+* Reconcer multiples formas de "ser mujer" (i.e.,
 debate sobre el uso del velo)
-
 * Necesidad de tener en cuenta múltiples ejes de opresión y
-alterización (neocolonialismo, violencia, objetualización,...)
-
+alterización (económino, colonial, género, sexualidad,...)
 * Ruptura de los binarismos, creación de alianzas múltiples
 (género, sexualidad, clase, etnicidad,
-
-* Orden social sexo/género occidental: de la coerción →
-consentimiento (depilación - velo)
-
-* Multiplicidad de: modelos familiares, definiciones
+* El poder se puede ejercer por consentimiento y por coerción (depilación - velo)
+* Multiplicidad de formas de vida: modelos familiares, definiciones
 público-privado, necesidades (supervivencia, reconocimiento,
 redistribución,...)
 
 ---
-Interseccionalidad: Relación y Localización
+Importancia de la Relación y Localización
 
 * Las categorías son relacionales
+* No prejuzgar la "relación" en base a categorías sociales
+* Las discriminaciones no son sumativas, son distintas
+* Reconocer y apreciar las posturas híbridas
+* Situar la relación en su contexto social e histórico (i.e., trabajadoras domésticas)
 
-* No hay esencia previa a la relación, hay que analizarse en su
-concreción
-
-* No hay un sumatorio de discriminaciones
-
-* Reivindicación de la hibridez y el estar en la frontera
-
-* Análisis localizado de la situación de la mujer: propuestas
-feministas de re-lectura del Corán
-
-* Configuración actual de la división internacional del trabajo
+<!-- }}} -->
 
 ---
 # Gràcies!
