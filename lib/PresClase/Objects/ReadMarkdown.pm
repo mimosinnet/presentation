@@ -1,7 +1,8 @@
 package PresClase::Objects::ReadMarkdown;
 use Mojo::Base -base;
 use Config::Simple;
-use Mojo::Util qw( trim slurp decode );
+use Mojo::Util qw( trim decode );
+use Mojo::File;
 
 has 'id_pres';
 has 'cfg' => sub {
@@ -22,7 +23,7 @@ has 'content' => sub {
 		my $self = shift;
 		my $id_pres = $self->id_pres;
 		return "Error in /md/$id_pres/Presentacio.md" unless -e "public/md/$id_pres/Presentacio.md";
-		return trim decode 'UTF-8', slurp "public/md/$id_pres/Presentacio.md";
+		return trim decode 'UTF-8', Mojo::File->new("public/md/$id_pres/Presentacio.md")->slurp;
 	};
 has 'n_slides' => sub {
 		my $self = shift;
