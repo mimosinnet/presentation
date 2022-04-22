@@ -6,8 +6,8 @@ This is a draft of a  Mojolicious application that converts markdown files into 
 
 You can see examples of the:
 * [Markdown File](https://github.com/mimosinnet/presentation/blob/master/public/md/01/Presentacio.md)
-* [Slides Outline](https://github.com/mimosinnet/presentation/ScreenShots/Outline.png)
-* [Slides](https://github.com/mimosinnet/presentation/ScreenShots/Slide.png)
+* [Slides Outline](https://github.com/mimosinnet/presentation/blob/master/ScreenShots/Outline.png)
+* [Slides](https://github.com/mimosinnet/presentation/blob/master/ScreenShots/Slide.png)
 
 While seeing slides, click on the slide to go to the next slide and move the mouse at the top of the slide to see the list of slides.
 
