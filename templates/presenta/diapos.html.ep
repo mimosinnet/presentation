@@ -1,0 +1,29 @@
+% layout 'diapos';
+% title $title;
+%# Show all slides, uses helper slide
+
+<div class="page">
+	%=t h1 => $title;
+	<table>
+	% my $count = 0;
+	% while ( $count < $n_slides ) {
+		<tr>
+		% for my $column (1 .. 2) {
+			% my $id_slide = $count + $column;
+			% next if ($id_slide > $n_slides);
+			<td>
+			%# using helper 'slide'
+			% my $slide = slide($id_pres,$id_slide);
+			% my $html_code = $slide->html_code;
+				
+				%= "$id_slide/$n_slides"
+				%== $html_code
+			</td>
+		% }
+		</tr>
+		% $count += 2;
+	% }
+	</table>
+</div>
+
+%# vim: tabstop=2 shiftwidth=2

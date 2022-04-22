@@ -1,0 +1,22 @@
+% layout 'slides';
+% title $title;
+%# Show all slides, one slide per page, uses helper slide
+
+  <div class="page">
+	  %=t h1 => $title;
+  </div>
+	% my $count = 1;
+	% while ( $count < $n_slides ) {
+			% my $id_slide = $count;
+			%# using helper 'slide'
+			% my $slide = slide($id_pres,$id_slide);
+			% my $html_code = $slide->html_code;
+				
+      <div class="page">
+				%== $html_code
+				%= "$id_slide/$n_slides"
+      </div>
+		% $count += 1;
+	% }
+
+%# vim: tabstop=2 shiftwidth=2

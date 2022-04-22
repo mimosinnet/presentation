@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!-- S'ha d'arreglar el css -->
+<html>
+  <head>
+		<title><%= title %></title>
+		<link rel="stylesheet" type="text/css" href="/css/slides.css">
+		<script src="/js/NoAutoSound.js"></script>
+  </head>
+
+  <body onload="NoAutoSound()">
+		<%= content %>
+	</body>
+</html>

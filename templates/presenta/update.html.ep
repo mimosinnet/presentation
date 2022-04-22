@@ -1,0 +1,15 @@
+%# Sembla que no ho estem fent servir
+% layout 'default';
+% title 'Has pujat un arxiu';
+%=t h2 => "Has actualitzat l'arxiu '$titol' amb $diapos diapositives"
+
+<hr>
+
+%=t h3 => 'Contingut de l\'arxiu:'
+
+% foreach my $line ( split /^/, $contingut) {
+%==	"$line <br>" 
+% }
+
+
+%# vim: tabstop=2 shiftwidth=2

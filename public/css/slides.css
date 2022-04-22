@@ -1,0 +1,89 @@
+:root {
+  --dark-primary-color: 		#689F38;
+  --default-primary-color: 	#8BC34A;
+  --light-primary-color: 		#DCEDC8;
+  --text-primary-color: 		#212121;
+  --accent-color: 					#FF5722;
+  --primary-text-color: 		#212121;
+  --secondary-text-color: 	#757575;
+  --divider-color: 					#BDBDBD;
+}
+
+body {
+	margin: 0;
+  padding: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+/* <div class="page">  */
+.page {
+  width: 100%;
+    min-height: 21cm;
+    /*
+    margin: 1cm auto;
+    border: 1px #D3D3D3 solid;
+	  border-color: red;
+    border-radius: 5px;
+    */
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.box {
+  min-height: 201mm;
+	display: block;
+	overflow:auto;
+	border-style: solid;
+	border-color: black;
+  background: rgba(245, 230, 255, 0.6);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	font-size: 2em;
+}
+
+.contingut{
+	margin-left: 0.1cm;
+	margin-right: 0.1cm;
+	padding-left: 0.7em;
+}
+
+
+p {
+}
+
+video {
+	margin-left: 0;
+	width: 100%; 
+	height: auto;
+}
+
+/* A4 formatting {{{ */
+/* http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size */
+
+@page {
+  size: A4 landscape;
+  margin: 0;
+}
+
+@media print {
+  html, body {
+    width: 297mm;
+    height: 210mm;
+  }
+  .page {
+      margin: 0;
+      border: initial;
+      border-radius: initial;
+      width: initial;
+      min-height: initial;
+      box-shadow: initial;
+      background: initial;
+      break-inside: avoid;
+      break-after: always;
+  }
+}
+/* }}} */

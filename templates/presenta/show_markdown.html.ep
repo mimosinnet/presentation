@@ -1,0 +1,20 @@
+% layout 'markdown';
+% title $missatge;
+
+<div class="markdown">
+
+%=t h1 => $missatge
+
+<p>L'arxiu <i><b><%= $titol %></b></i> té <b><%= $n_slides %></b> diapositives.</p>
+
+<hr>
+
+%=t h1 => "Contingut"
+
+% foreach my $line ( split /^/, $content) {
+%==	"$line <br>" 
+% }
+
+</div>
+
+%# vim: tabstop=2 shiftwidth=2

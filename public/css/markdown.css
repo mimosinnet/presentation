@@ -1,0 +1,41 @@
+body {
+}
+
+table {
+	border-collapse: collapse;
+	margin: auto;
+	border: 2px solid black; 
+	text-align: left;
+}
+
+th {
+	border-bottom: 1px solid black;
+}
+
+td {
+	padding: 2px;
+	border-bottom: 1px solid #ddd;
+}
+
+td:nth-child(1), th:nth-child(1) { 
+	background-color: #66ffb5;
+}
+
+td:nth-child(2), th:nth-child(2) { 
+	text-align: right; 
+	background-color: #99ffce;
+}
+
+input[type=submit] {
+    background		: #e6fff3; 
+    cursor				:	pointer;
+    border-radius	: 5px; 
+}
+
+.list {
+	text-align: center;
+}
+
+.markdown img, .markdown video {
+	width: 50%;
+}

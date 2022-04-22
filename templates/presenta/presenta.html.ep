@@ -1,0 +1,69 @@
+%# Variables {{{                                                                                                                       
+%# $self->slide: helper defined in PresClase.pm that gets a slide object                                                               
+% my $slide       = $self->slide($id_pres,$id_slide);                                                                                  
+% my $n_slides    = $slide->n_slides;                                                                                                  
+% my $title       = $slide->title;                                                                                                     
+% my $html_code   = $slide->html_code;                                                                                                 
+% my ($prev, $next) = $slide->position;                                                                                                
+%# }}} 
+
+% layout 'slide';
+% title $title;
+
+<div class="slide-left"  onclick="location.href = '<%= $prev %>';"></div>
+<div class="slide-right" onclick="location.href = '<%= $next %>';"></div>
+
+%# List of slides at the top {{{
+%# Because of the variables, the code cannot be reused
+%# Maybe: the code could be generated at the beginning
+<div class="list-diapos-top">
+	<p>
+	%= link_to "\N{U+1F3E0}" => "/curs/$id_course"
+	|
+	%= link_to "⇦" => "/presenta/$id_pres/$prev"
+	% foreach my $numero ( 1 .. $n_slides) {
+		%= link_to $numero => "/presenta/$id_pres/$numero"
+	% }
+	%= link_to "⇨" => "/presenta/$id_pres/$next"
+	</p>
+</div>
+%# }}}
+
+<div id="next-slide" ondblclick="location.href = '<%= $next %>';">
+	%== $html_code;
+</div>
+
+%# List of slides at the bottom {{{
+%#<div class="list-diapos-bottom">
+%#	<p>
+%#	%= link_to "\N{U+1F3E0}" => "/"
+%#	|
+%#	%= link_to "⇦" => "/presenta/$id_pres/$prev"
+%#	% foreach my $numero ( 1 .. $n_slides) {
+%#		%= link_to $numero => "/presenta/$id_pres/$numero"
+%#	% }
+%#	%= link_to "⇨" => "/presenta/$id_pres/$next"
+%#	</p>
+%#</div>
+%# }}}
+
+%# Script that moves to next / previos slide with keyboard {{{
+<script>
+// Next - Previous Slide
+$(document).ready(function(){
+   $(document).keydown(function(e) {
+			// key code 33 = Page Up
+			if ( e.which === 33 ) {
+				e.preventDefault();
+				window.location.href = '<%= $prev %>';        
+			// key code 34 = Page Down
+			} else if ( e.which === 34 ) {
+				e.preventDefault();
+				window.location.href = '<%= $next %>'; 
+			} 
+	 });
+});
+</script>
+%# }}}
+
+%# vim: tabstop=2 shiftwidth=2

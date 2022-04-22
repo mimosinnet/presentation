@@ -1,0 +1,47 @@
+/* https://www.materialpalette.com/
+ * https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care
+ * https://googlechrome.github.io/samples/css-custom-properties/index.html
+ */
+:root {
+	--dark-primary-color: 		#689F38;
+  --default-primary-color: 	#8BC34A;
+  --light-primary-color: 		#DCEDC8;
+  --text-primary-color: 		#212121;
+  --accent-color: 					#FF5722;
+  --primary-text-color: 		#212121;
+  --secondary-text-color: 	#757575;
+  --divider-color: 					#BDBDBD;
+}
+
+html, body, {
+	height: 100%;
+	font-family				: 'Vollkorn', serif;
+}
+body {
+	margin: 0em 0.2em 0em 0em;
+	background: rgba(245, 230, 255, 0.5);
+}
+
+table {
+	margin: auto;
+	border: 2px solid black; 
+	text-align: left;
+}
+
+th {
+	border-bottom: 1px solid black;
+}
+
+td {
+	padding: 2px;
+	border-bottom: 1px solid #ddd;
+}
+
+td:nth-child(1), th:nth-child(1) { 
+	background-color: var(--light-primary-color);
+}
+
+.list {
+	text-align: center;
+}
+

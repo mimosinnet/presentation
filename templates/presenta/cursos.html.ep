@@ -1,0 +1,31 @@
+% layout 'cursos';
+% title $title;
+
+<div class="list">
+
+  <p><a href='/list_presentations'>Llistat de Presentacions</a></p>
+
+%=t h1 => $title
+
+<table>
+  <tr><th>id</th><th>Curs</th></tr>
+	%# Print registers in database {{{
+	% while (my $curs = $cursos->hash ) {
+		% my $id_curs	= sprintf ("%02d", $curs->{id});
+		% my $nom_curs 	= $curs->{Curs};
+
+		<tr>
+      <td>
+        %# Column 1: id
+				%= link_to $id_curs => url_for("/curs/$id_curs")
+      </td>
+			<td>
+			  %# Column 2: nom_curs
+				%= link_to $nom_curs => url_for("/curs/$id_curs")
+			</td>
+		</tr>
+	% }  
+</table>
+
+</div>
+%# vim: tabstop=2 shiftwidth=2

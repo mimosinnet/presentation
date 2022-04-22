@@ -1,0 +1,79 @@
+% layout 'list_presentations';
+% title $title;
+
+%# get number of presentations from public/md/  {{{
+% my %n_markdown;
+% my @dirs = glob("public/md/*");
+% foreach my $dir (@dirs) {
+% 	my @path = split(/\//,$dir);
+% 	$n_markdown{pop @path} = '0';
+% } 
+%# }}}
+
+<div class="list">
+
+  <p><a href='/cursos'>Llista de Cursos</a></p>
+
+%=t h1 => $title
+
+<p style="color: red">
+	%= $self->flash('message')
+</p>
+
+<p>Tens <%= keys %n_markdown %> presentacions, i n'has carregat <%= $n_pres_in_db %>.</p>
+
+<table>
+	<tr><th>Id.</th><th>N.</th><th>Upd</th><th>Títol</th></tr>
+	%# Print registers in database {{{
+	% while (my $pres_reg = $pres->hash ) {
+		% my $id_pres	= sprintf ("%02d", $pres_reg->{id});
+		% my $title 	= $pres_reg->{Presentacio};
+		% my $n_slides = $pres_reg->{Diapositives};
+		%# deletes from markdown if exists in db
+		% delete $n_markdown{$id_pres};
+
+		<tr>
+			%# Column 1: shows markdown file
+			<td>
+				%= link_to $id_pres => url_for("/show_markdown/$id_pres"), target => '_blank'
+			</td>
+			%# Column 2: Dips. number of slides, shows an outline of slides. 
+			<td>
+				%= link_to $n_slides => url_for("/diapos/$id_pres"), target => '_blank'
+			</td>
+			%# Column 3: Actualitza. Update presentation (read slides from markdown).
+			<td>
+				%= form_for '/admin/update' => (method => 'GET') => begin
+					%= hidden_field 'id_pres' => $id_pres
+					%= submit_button 'ok'
+				% end
+			</td>
+			%# Column 4: Títol. Title of presentation and shows presentation using mojoliciuos. 
+			<td>
+				%= link_to $title => "/presenta/$id_pres/1"
+			</td>
+		</tr>
+	% }  
+	%# }}}
+
+	%# Print resgisters not in database {{{
+	% foreach my $n_mark ( keys %n_markdown ) {
+		<tr>
+			<td style="background-color: red;">
+				%= link_to $n_mark => url_for("/show_markdown/$n_mark"), target => '_blank'
+			</td>
+			<td>--</td>
+			<td>--</td>
+			<td>
+				%= form_for '/admin/update' => (method => 'GET') => begin
+					%= hidden_field 'id_pres' => $n_mark
+					%= submit_button 'Actualitza'
+				% end
+			</td>
+		</tr>
+	% }
+	%# }}}
+</table>
+
+</div>
+%# vim: tabstop=2 shiftwidth=2
